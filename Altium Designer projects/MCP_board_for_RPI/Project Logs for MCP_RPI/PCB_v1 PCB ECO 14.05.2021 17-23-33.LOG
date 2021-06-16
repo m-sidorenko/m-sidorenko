@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=ARD_SIG_5 Pin=IC1-4
+Removed Pin From Net: NetName=ARD_SIG_4 Pin=IC1-5
+Added Pin To Net: NetName=ARD_SIG_4 Pin=IC1-4
+Added Pin To Net: NetName=ARD_SIG_5 Pin=IC1-5
+Added Member To Class: ClassName=Scheme Member=Component P3 IDC-10pin

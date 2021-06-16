@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=NetR12_2 Pin=R13-2
+Removed Member From Class: ClassName=Scheme_UPS_RPI Member=R13
+Change Component Footprint: Designator=SB1 Old Footprint=SWR-41 BUTTON New Footprint=MTS-102-C4
+Change Component Footprint: Designator=R12 Old Footprint=Резисторы New Footprint=RESAD2220W60L900D330
+Change Component Comment : Designator=R12 Old Comment= New Comment=CFR-50JT-52-470R
+Change Component Comment : Designator=SB1 Old Comment=Button Switch SWR-41 New Comment=MTS-102-C4
+Change component parameters: Designator = "R12" ("R12"); Footprint = "Резисторы"; UniqueID = "\RWQGPOTM" ("\RWQGPOTM")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/CFR-50JT-52-470R.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CFR-50JT-52-470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "603-CFR-50JT-52-470R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Yageo/CFR-50JT-52-470R?qs=KUIzHt%2Fe91kPIzbDkmuUcw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESAD2220W60L900D330)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/CFR-50JT-52-470R.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CFR-50JT-52-470R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CFR-50JT-52-470R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Yageo/CFR-50JT-52-470R?qs=KUIzHt%2Fe91kPIzbDkmuUcw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESAD2220W60L900D330)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/CFR-50JT-52-470R.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CFR-50JT-52-470R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-CFR-50JT-52-470R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Yageo/CFR-50JT-52-470R?qs=KUIzHt%2Fe91kPIzbDkmuUcw%3D%3D"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=HIGH CURRENT_IN New Net Name=NetDA1_1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Net: Name=NetR?_2
+Added Member To Class: ClassName=Scheme_UPS_RPI Member=Component R? CFR-50JT-52-470R
+Added Member To Class: ClassName=Scheme_UPS_RPI Member=Component R? CFR-50JT-52-470R
+Added Room: Name=Scheme_UPS_RPI

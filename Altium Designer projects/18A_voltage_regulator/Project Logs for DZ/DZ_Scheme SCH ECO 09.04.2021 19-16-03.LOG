@@ -1,0 +1,8 @@
+Change Value of Parameter Manufacturer_Name in Part C4 Old= New=Yageo
+Change Value of Parameter Manufacturer_Part_Number in Part C4 Old= New=CC0805MKX5R8BB226
+Added Parameter Manufacturer_Name=Yageo to Part C1
+Added Parameter Manufacturer_Name=Yageo to Part C2
+Added Parameter Manufacturer_Name=Yageo to Part C3
+Added Parameter Manufacturer_Part_Number=CC0805MKX5R8BB226 to Part C1
+Added Parameter Manufacturer_Part_Number=CC0805MKX5R8BB226 to Part C2
+Added Parameter Manufacturer_Part_Number=CC0805MKX5R8BB226 to Part C3

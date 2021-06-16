@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetDA1_1 Pin=SB1-2
+Added Pin To Net: NetName=NetDA1_1 Pin=SB1-3
+Added Room: Name=Scheme_UPS_RPI
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2mm New=0mm

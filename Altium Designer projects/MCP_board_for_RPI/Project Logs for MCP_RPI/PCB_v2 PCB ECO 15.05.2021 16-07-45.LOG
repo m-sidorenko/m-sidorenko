@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=RPI_GND Pin=R11-1
+Removed Pin From Net: NetName=RPI_GND Pin=R12-1
+Removed Pin From Net: NetName=RPI_GND Pin=R13-1
+Removed Member From Class: ClassName=Scheme Member=R11
+Removed Member From Class: ClassName=Scheme Member=R12
+Removed Member From Class: ClassName=Scheme Member=R13
+Added Pin To Net: NetName=RPI_GND Pin=IC1-15
+Added Pin To Net: NetName=RPI_GND Pin=IC1-16
+Added Pin To Net: NetName=RPI_GND Pin=IC1-17

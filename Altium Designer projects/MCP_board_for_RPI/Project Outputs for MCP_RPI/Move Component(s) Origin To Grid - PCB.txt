@@ -1,0 +1,53 @@
+Move Component(s) Origin to Grid
+Filename     : D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc
+Date         : 09.05.2021
+Time         : 10:42:38
+Time Elapsed : 00:00:00
+
+
+    SMT Small Component R25-CR1206-FW-1504ELF (174.15mm,136.4mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R24-CR1206-FW-1504ELF (183.65mm,136.4mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R23-CR1206-FW-1504ELF (189.15mm,138.4mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R22-CR1206-FW-1504ELF (202.65mm,134.4mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R21-CR1206-FW-1504ELF (216.15mm,130.4mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R20-CR1206-FW-1504ELF (229.15mm,131.4mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R19-CR1206-FW-1504ELF (65.156mm,71.01mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R18-CR1206-FW-1504ELF (253.15mm,132.4mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R17-CR1206-FW-1504ELF (266.65mm,132.4mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R16-CR1206-FW-1504ELF (65.156mm,80.146mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R15-CR1206-FW-1504ELF (65.156mm,89.282mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R14-CR1206-FW-1504ELF (65.156mm,98.418mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R13-CR1206-FW-1504ELF (287mm,105mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R12-CR1206-FW-1504ELF (293mm,105mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R11-CR1206-FW-1504ELF (299mm,105mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R10-CR1206-FW-1504ELF (65.156mm,107.554mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R9-CR1206-FW-1504ELF (78.6mm,72.375mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R8-CR1206-FW-1504ELF (79.725mm,66.675mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R7-CR1206-FW-1504ELF (47.763mm,71.01mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R6-CR1206-FW-1504ELF (47.763mm,80.146mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R5-CR1206-FW-1504ELF (47.763mm,89.282mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R4-CR1206-FW-1504ELF (47.763mm,98.418mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R3-CR1206-FW-1504ELF (65.156mm,116.69mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R2-CR1206-FW-1504ELF (47.763mm,107.554mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R1-CR1206-FW-1504ELF (47.763mm,116.69mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Small Component P7-2-pin_connector (278.83mm,207.175mm) on Bottom Layer - Component pads are OFF grid. No action taken.
+    Small Component P6-2-pin_connector (317.65mm,210.225mm) on Bottom Layer - Component pads are OFF grid. No action taken.
+    Small Component P5-2-pin_connector (350.65mm,210.225mm) on Bottom Layer - Component pads are OFF grid. No action taken.
+    Small Component P4-2-pin_connector (362.895mm,191.825mm) on Bottom Layer - Component pads are OFF grid. No action taken.
+    DIP Component P3-IDC-8pin (108.73mm,98.19mm) on Bottom Layer - Component pads are OFF grid. No action taken.
+    SIP Component P2-S4B-XH-A(LF)(SN) (83.25mm,56mm) on Bottom Layer - Component pads are OFF grid. No action taken.
+    DIP Component P1-IDC-8pin (27.27mm,97.81mm) on Bottom Layer - Component pads are OFF grid. No action taken.
+    Component IC11-LTV-817-B (301.65mm,208.225mm) on Bottom Layer - Component pads are OFF grid. No action taken.
+    Component IC10-LTV-817-B (334.65mm,208.225mm) on Bottom Layer - Component pads are OFF grid. No action taken.
+    Component IC9-LTV-817-B (366.65mm,208.225mm) on Bottom Layer - Component pads are OFF grid. No action taken.
+    Component IC8-LTV-817-B (57mm,71.27mm) on Bottom Layer - Component pads are OFF grid. No action taken.
+    Component IC7-LTV-817-B (166mm,72mm) on Bottom Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Component IC6-LTV-817-B (57mm,80.406mm) on Bottom Layer - Component pads are OFF grid. No action taken.
+    Component IC5-LTV-817-B (57mm,89.542mm) on Bottom Layer - Component pads are OFF grid. No action taken.
+    Component IC4-LTV-817-B (57mm,98.678mm) on Bottom Layer - Component pads are OFF grid. No action taken.
+    Component IC3-LTV-817-B (57mm,107.814mm) on Bottom Layer - Component pads are OFF grid. No action taken.
+    Component IC2-LTV-817-B (57mm,116.95mm) on Bottom Layer - Component pads are OFF grid. No action taken.
+    DIP Component IC1-MCP23017-E_SP (83.969mm,99.65mm) on Bottom Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component C2-C3216C0G1H683J160AE (95.725mm,67.375mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Small Component C1-EEU-FR1V330 (95.65mm,60.575mm) on Bottom Layer - Component pads are OFF grid. No action taken.
+count : 45

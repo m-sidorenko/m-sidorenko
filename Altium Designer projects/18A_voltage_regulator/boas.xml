@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BoasConfig>
+  <DocsParams>
+    <PENameParam></PENameParam>
+    <PENameParam3></PENameParam3>
+    <VpAtrib2></VpAtrib2>
+    <VpAtrib4></VpAtrib4>
+    <VpText5></VpText5>
+    <PrimPe></PrimPe>
+    <PrimVp></PrimVp>
+    <ExportPage1>True</ExportPage1>
+    <ExportPage2>False</ExportPage2>
+    <ExportPage3>False</ExportPage3>
+    <ExportPage4>False</ExportPage4>
+    <LockPage1>False</LockPage1>
+    <LockPage2>True</LockPage2>
+    <LockPage3>False</LockPage3>
+    <LockPage4>True</LockPage4>
+    <ExportSch>True</ExportSch>
+    <LockDocs>False</LockDocs>
+    <RazdelFromAtrib>False</RazdelFromAtrib>
+    <PostStart>1</PostStart>
+    <PosInc>1</PosInc>
+    <ShowRazdel>True</ShowRazdel>
+    <OneEntryIsGroup>False</OneEntryIsGroup>
+    <NoVariants>False</NoVariants>
+    <SheetName>SheetName</SheetName>
+  </DocsParams>
+  <Positions>
+    <Position id="2">
+      <Value>*</Value>
+    </Position>
+    <Position id="3">
+      <Value>C10</Value>
+      <Value>C11</Value>
+    </Position>
+    <Position id="4">
+      <Value>C12</Value>
+    </Position>
+    <Position id="5">
+      <Value>C9</Value>
+    </Position>
+    <Position id="6">
+      <Value>C6</Value>
+      <Value>C8</Value>
+    </Position>
+    <Position id="7">
+      <Value>C1</Value>
+      <Value>C2</Value>
+      <Value>C3</Value>
+      <Value>C4</Value>
+    </Position>
+    <Position id="8">
+      <Value>C5</Value>
+      <Value>C7</Value>
+    </Position>
+    <Position id="9">
+      <Value>DD1</Value>
+    </Position>
+    <Position id="10">
+      <Value>R1</Value>
+    </Position>
+    <Position id="11">
+      <Value>R2</Value>
+      <Value>R3</Value>
+    </Position>
+    <Position id="12">
+      <Value>R6</Value>
+    </Position>
+    <Position id="13">
+      <Value>R5</Value>
+      <Value>R7</Value>
+      <Value>R8</Value>
+    </Position>
+    <Position id="14">
+      <Value>R4</Value>
+      <Value>R9</Value>
+      <Value>R10</Value>
+    </Position>
+    <Position id="15">
+      <Value>XP1</Value>
+      <Value>XP2</Value>
+      <Value>XP3</Value>
+    </Position>
+  </Positions>
+  <materials />
+  <pelines>
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="Конденсаторы" comment="" underline="False" type="ElementGroup" />
+    <peline num="4" oboz="C1-C4" name="CC0805MKX5R8BB226  22мкФ  Yageo" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C5" name="GRM21BR60J107ME15  100мкФ  Murata" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C6" name="CC0805KKX7R7BB474  470мкФ  Yageo" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C7" name="GRM21BR60J107ME15  100мкФ  Murata" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C8" name="CC0805KKX7R7BB474  470мкФ  Yageo" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C9" name="CC0805KKX5R8BB475  4.7мкФ  Yageo" comment="" underline="False" type="None" />
+    <peline num="2" oboz="C10,C11" name="CC0805JKNPO9BN222  2200пкФ  Yageo" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C12" name="CC0805JRX7R8BB104  0.1мкФ  Yageo" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="1" oboz="DD1" name="Микросхема LTM4630-1    LiNear" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="Резисторы" comment="" underline="False" type="ElementGroup" />
+    <peline num="1" oboz="R1" name="CRCW1206100KFKEA  100К  Vishay" comment="" underline="False" type="None" />
+    <peline num="2" oboz="R2,R3" name="CRCW120610K0FKEA  10K  Vishay" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R4" name="CRCW120660K4FKEA  60K4  Vishay" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R5" name="CRCW120640K2FHEAP  40K2  Vishay" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R6" name="CRCW1206121KFHEAP  121K  Vishay" comment="" underline="False" type="None" />
+    <peline num="2" oboz="R7,R8" name="CRCW120640K2FHEAP  40K2  Vishay" comment="" underline="False" type="None" />
+    <peline num="2" oboz="R9,R10" name="CRCW120660K4FKEA  60K4  Vishay" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="3" oboz="XP1-XP3" name="Штырь 1982295-1    TE Connectivity" comment="" underline="False" type="None" />
+  </pelines>
+  <vplines>
+    <vpline num="" oboz="" name="Конденсаторы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" name="CC0805JKNPO9BN222  2200пкФ  Yageo" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="CC0805JRX7R8BB104  0.1мкФ  Yageo" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="CC0805KKX5R8BB475  4.7мкФ  Yageo" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" name="CC0805KKX7R7BB474  470мкФ  Yageo" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="4" oboz="" name="CC0805MKX5R8BB226  22мкФ  Yageo" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" name="GRM21BR60J107ME15  100мкФ  Murata" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="Микросхемы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="LTM4630-1    LiNear" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="Резисторы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="CRCW1206100KFKEA  100К  Vishay" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" name="CRCW120610K0FKEA  10K  Vishay" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="CRCW1206121KFHEAP  121K  Vishay" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="3" oboz="" name="CRCW120640K2FHEAP  40K2  Vishay" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="3" oboz="" name="CRCW120660K4FKEA  60K4  Vishay" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="Штыри" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="3" oboz="" name="1982295-1    TE Connectivity" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="TEST_PINS" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+  </vplines>
+  <speclines>
+    <specline num="" oboz="" name="Документация" comment="" underline="True" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="АРВЦ.671355.010 СБ" name="Сборочный чертеж" comment="*)А2,А1" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="*)" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="АРВЦ.671355.010 Э3" name="Схема электрическая" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="А1" pos="" posinelement="0" />
+    <specline num="" oboz="" name="принципиальная" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="АРВЦ.671355.010 ПЭ3" name="Перечень элементов" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="А4" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="АРВЦ.671355.010 ВП" name="Ведомость покупных" comment="*)А4,А3" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="*)" pos="" posinelement="0" />
+    <specline num="" oboz="" name="изделий" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Детали" comment="" underline="True" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="АРВЦ.758723.010" name="Плата двусторонняя" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="1" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Прочие изделия" comment="" underline="True" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="TEST_PINS" comment="*" underline="False" type="None" merge="False" needtu="True" GroupLine1="" GroupLine2="" format="" pos="2" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="2" oboz="" name="Конденсатор CC0805JKNPO9BN222 " comment="C10,C11" underline="False" type="None" merge="False" needtu="True" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="3" posinelement="1" />
+    <specline num="" oboz="" name=" 2200пкФ  Yageo " comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Конденсатор CC0805JRX7R8BB104 " comment="C12" underline="False" type="None" merge="False" needtu="True" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="4" posinelement="1" />
+    <specline num="" oboz="" name=" 0.1мкФ  Yageo " comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Конденсатор CC0805KKX5R8BB475 " comment="C9" underline="False" type="None" merge="False" needtu="True" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="5" posinelement="1" />
+    <specline num="" oboz="" name=" 4.7мкФ  Yageo " comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="2" oboz="" name="Конденсатор CC0805KKX7R7BB474 " comment="C6," underline="False" type="None" merge="False" needtu="True" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="6" posinelement="1" />
+    <specline num="" oboz="" name=" 470мкФ  Yageo " comment="C8" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="4" oboz="" name="Конденсатор CC0805MKX5R8BB226 " comment="C1-C4" underline="False" type="None" merge="False" needtu="True" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="7" posinelement="1" />
+    <specline num="" oboz="" name=" 22мкФ  Yageo " comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="2" oboz="" name="Конденсатор GRM21BR60J107ME15 " comment="C5," underline="False" type="None" merge="False" needtu="True" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="8" posinelement="1" />
+    <specline num="" oboz="" name=" 100мкФ  Murata " comment="C7" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Микросхема LTM4630-1    LiNear" comment="DD1" underline="False" type="None" merge="False" needtu="True" GroupLine1="Микросхемы" GroupLine2="" format="" pos="9" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Резистор CRCW1206100KFKEA " comment="R1" underline="False" type="None" merge="False" needtu="True" GroupLine1="Резисторы" GroupLine2="" format="" pos="10" posinelement="1" />
+    <specline num="" oboz="" name=" 100К  Vishay " comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="2" oboz="" name="Резистор CRCW120610K0FKEA  10K  Vishay" comment="R2,R3" underline="False" type="None" merge="False" needtu="True" GroupLine1="Резисторы" GroupLine2="" format="" pos="11" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Резистор CRCW1206121KFHEAP " comment="R6" underline="False" type="None" merge="False" needtu="True" GroupLine1="Резисторы" GroupLine2="" format="" pos="12" posinelement="1" />
+    <specline num="" oboz="" name=" 121K  Vishay " comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="3" oboz="" name="Резистор CRCW120640K2FHEAP " comment="R5," underline="False" type="None" merge="False" needtu="True" GroupLine1="Резисторы" GroupLine2="" format="" pos="13" posinelement="1" />
+    <specline num="" oboz="" name=" 40K2  Vishay " comment="R7,R8" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="3" oboz="" name="Резистор CRCW120660K4FKEA " comment="R4," underline="False" type="None" merge="False" needtu="True" GroupLine1="Резисторы" GroupLine2="" format="" pos="14" posinelement="1" />
+    <specline num="" oboz="" name=" 60K4  Vishay " comment="R9,R10" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="3" oboz="" name="Штырь 1982295-1    TE Connectivity" comment="XP1-XP3" underline="False" type="None" merge="False" needtu="True" GroupLine1="Штыри" GroupLine2="" format="" pos="15" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+  </speclines>
+  <speclinespp>
+    <specline num="" oboz="" name="Документация" comment="" underline="True" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="АРВЦ.671355.010 СБ" name="Сборочный чертеж" comment="*)А2,А1" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="*)" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Материалы" comment="" underline="True" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+  </speclinespp>
+  <groups>
+    <group name="default">
+      <param name="Manufacturer_Part_Number" delemiter="  " />
+      <param name="Parameter 1" delemiter="  " />
+      <param name="Manufacturer_Name" delemiter="" />
+    </group>
+  </groups>
+</BoasConfig>

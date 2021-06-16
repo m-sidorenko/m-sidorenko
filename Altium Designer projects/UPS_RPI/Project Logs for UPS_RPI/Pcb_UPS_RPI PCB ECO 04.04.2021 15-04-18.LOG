@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=HIGH CURRENT Pin=C3-1
+Removed Pin From Net: NetName=HIGH CURRENT Pin=DA2-2
+Removed Pin From Net: NetName=HIGH CURRENT Pin=X5-1
+Removed Pin From Net: NetName=HIGH CURRENT Pin=X6-1
+Added Pin To Net: NetName=HIGH CURRENT_Vout Pin=C3-1
+Added Pin To Net: NetName=HIGH CURRENT_Vout Pin=DA2-2
+Added Pin To Net: NetName=HIGH CURRENT_Vout Pin=X5-1
+Added Pin To Net: NetName=HIGH CURRENT_Vout Pin=X6-1
+Added Net: Name=HIGH CURRENT_Vout
+Added Room: Name=Scheme_UPS_RPI

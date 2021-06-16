@@ -1,0 +1,209 @@
+Removed Pin From Net: NetName=Net*_J2 Pin=R?-2
+Removed Member From Class: ClassName=DZ_Scheme Member=R?
+Change Component Designator: OldDesignator=* NewDesignator=DD1
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=X? NewDesignator=XP1
+Added Component: Designator=C5(CAP: 0805)
+Add component (AddParameter): Name = "Parameter 1"; Value = "100ÏÍ‘"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP: 0805)
+Add component (AddParameter): Name = "Parameter 1"; Value = "470ÏÍ‘"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP: 0805)
+Add component (AddParameter): Name = "Parameter 1"; Value = "100ÏÍ‘"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP: 0805)
+Add component (AddParameter): Name = "Parameter 1"; Value = "470ÏÍ‘"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP: 0805)
+Add component (AddParameter): Name = "Parameter 1"; Value = "4.7ÏÍ‘"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP: 0805)
+Add component (AddParameter): Name = "Parameter 1"; Value = "2200ÔÍ‘"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP: 0805)
+Add component (AddParameter): Name = "Parameter 1"; Value = "2200ÔÍ‘"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP: 0805)
+Add component (AddParameter): Name = "Parameter 1"; Value = "0.1ÏÍ‘"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES: 1206)
+Add component (AddParameter): Name = "Parameter 1"; Value = "100 "; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES: 1206)
+Add component (AddParameter): Name = "Parameter 1"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES: 1206)
+Add component (AddParameter): Name = "Parameter 1"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES: 1206)
+Add component (AddParameter): Name = "Parameter 1"; Value = "60K4"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES: 1206)
+Add component (AddParameter): Name = "Parameter 1"; Value = "40K2"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES: 1206)
+Add component (AddParameter): Name = "Parameter 1"; Value = "121K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES: 1206)
+Add component (AddParameter): Name = "Parameter 1"; Value = "40K2"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES: 1206)
+Add component (AddParameter): Name = "Parameter 1"; Value = "40K2"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES: 1206)
+Add component (AddParameter): Name = "Parameter 1"; Value = "60K4"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES: 1206)
+Add component (AddParameter): Name = "Parameter 1"; Value = "60K4"; VariantName = "[No Variations]"
+Added Component: Designator=XP2(19822951)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1982295-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1982295-1/te-connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773894-6_ELCON_Mini_QRG_EN&DocType=Data+Sheet&DocLang=English&PartCntxt=1982295-1&DocFormat=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1982295-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-1982295-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/1982295-1?qs=TL6PIybY3BPz%2FGEsZ%2FgbXA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=XP3(19822951)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1982295-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1982295-1/te-connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773894-6_ELCON_Mini_QRG_EN&DocType=Data+Sheet&DocLang=English&PartCntxt=1982295-1&DocFormat=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1982295-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-1982295-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/1982295-1?qs=TL6PIybY3BPz%2FGEsZ%2FgbXA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=XP4(19822951)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1982295-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1982295-1/te-connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773894-6_ELCON_Mini_QRG_EN&DocType=Data+Sheet&DocLang=English&PartCntxt=1982295-1&DocFormat=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1982295-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-1982295-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/1982295-1?qs=TL6PIybY3BPz%2FGEsZ%2FgbXA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*_B6 Pin=C1-1
+Added Pin To Net: NetName=Net*_B6 Pin=C2-1
+Added Pin To Net: NetName=Net*_B6 Pin=C3-1
+Added Pin To Net: NetName=Net*_B6 Pin=C4-1
+Added Pin To Net: NetName=Net*_B6 Pin=C5-1
+Added Pin To Net: NetName=Net*_A1 Pin=C5-2
+Added Pin To Net: NetName=Net*_A1 Pin=C6-1
+Added Pin To Net: NetName=Net*_B6 Pin=C6-2
+Added Pin To Net: NetName=Net*_B6 Pin=C7-1
+Added Pin To Net: NetName=Net*_A8 Pin=C7-2
+Added Pin To Net: NetName=Net*_A8 Pin=C8-1
+Added Pin To Net: NetName=Net*_B6 Pin=C8-2
+Added Pin To Net: NetName=Net*_B6 Pin=C9-1
+Added Pin To Net: NetName=Net*_B6 Pin=C10-1
+Added Pin To Net: NetName=Net*_B6 Pin=C11-2
+Added Pin To Net: NetName=Net*_B6 Pin=C12-1
+Added Pin To Net: NetName=Net*_B6 Pin=DD1-A6
+Added Pin To Net: NetName=Net*_B6 Pin=DD1-A7
+Added Pin To Net: NetName=Net*_A1 Pin=DD1-C5
+Added Pin To Net: NetName=Net*_B6 Pin=DD1-C7
+Added Pin To Net: NetName=Net*_B6 Pin=DD1-D6
+Added Pin To Net: NetName=Net*_A8 Pin=DD1-E8
+Added Pin To Net: NetName=Net*_B6 Pin=DD1-E9
+Added Pin To Net: NetName=Net*_B6 Pin=DD1-F4
+Added Pin To Net: NetName=Net*_B6 Pin=DD1-F6
+Added Pin To Net: NetName=Net*_B6 Pin=DD1-F7
+Added Pin To Net: NetName=Net*_B6 Pin=DD1-G4
+Added Pin To Net: NetName=Net*_B6 Pin=DD1-G6
+Added Pin To Net: NetName=Net*_B6 Pin=DD1-G7
+Added Pin To Net: NetName=Net*_B6 Pin=DD1-H12
+Added Pin To Net: NetName=Net*_B6 Pin=DD1-K5
+Added Pin To Net: NetName=Net*_J2 Pin=R1-2
+Added Pin To Net: NetName=Net*_B6 Pin=R4-1
+Added Pin To Net: NetName=Net*_B6 Pin=R5-1
+Added Pin To Net: NetName=Net*_B6 Pin=R6-2
+Added Pin To Net: NetName=Net*_A1 Pin=R9-1
+Added Pin To Net: NetName=Net*_B6 Pin=R10-1
+Added Pin To Net: NetName=Net*_B6 Pin=XP1-2
+Added Pin To Net: NetName=Net*_B6 Pin=XP1-2
+Added Pin To Net: NetName=Net*_B6 Pin=XP1-2
+Added Pin To Net: NetName=Net*_B6 Pin=XP1-2
+Added Pin To Net: NetName=Net*_A1 Pin=XP2-1
+Added Pin To Net: NetName=Net*_A1 Pin=XP2-1
+Added Pin To Net: NetName=Net*_A1 Pin=XP2-1
+Added Pin To Net: NetName=Net*_A1 Pin=XP2-1
+Added Pin To Net: NetName=Net*_B6 Pin=XP2-2
+Added Pin To Net: NetName=Net*_B6 Pin=XP2-2
+Added Pin To Net: NetName=Net*_B6 Pin=XP2-2
+Added Pin To Net: NetName=Net*_B6 Pin=XP2-2
+Added Pin To Net: NetName=Net*_A8 Pin=XP3-1
+Added Pin To Net: NetName=Net*_A8 Pin=XP3-1
+Added Pin To Net: NetName=Net*_A8 Pin=XP3-1
+Added Pin To Net: NetName=Net*_A8 Pin=XP3-1
+Added Pin To Net: NetName=Net*_B6 Pin=XP3-2
+Added Pin To Net: NetName=Net*_B6 Pin=XP3-2
+Added Pin To Net: NetName=Net*_B6 Pin=XP3-2
+Added Pin To Net: NetName=Net*_B6 Pin=XP3-2
+Added Pin To Net: NetName=Net*_B6 Pin=XP4-2
+Added Pin To Net: NetName=Net*_B6 Pin=XP4-2
+Added Pin To Net: NetName=Net*_B6 Pin=XP4-2
+Added Pin To Net: NetName=Net*_B6 Pin=XP4-2
+Change Net Name : Old Net Name=Net*_A1 New Net Name=Vout1
+Change Net Name : Old Net Name=Net*_A8 New Net Name=Vout2
+Change Net Name : Old Net Name=Net*_B6 New Net Name=GND
+Change Net Name : Old Net Name=Net*_J2 New Net Name=Vin
+Added Pin To Net: NetName=INTVcc Pin=C9-2
+Added Pin To Net: NetName=INTVcc Pin=DD1-H8
+Added Pin To Net: NetName=INTVcc Pin=R2-1
+Added Pin To Net: NetName=INTVcc Pin=R3-1
+Added Net: Name=INTVcc
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=R7-2
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=R8-2
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=DD1-E5
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetDD1_C6 Pin=DD1-C6
+Added Pin To Net: NetName=NetDD1_C6 Pin=R6-1
+Added Net: Name=NetDD1_C6
+Added Pin To Net: NetName=NetDD1_C8 Pin=DD1-C8
+Added Pin To Net: NetName=NetDD1_C8 Pin=DD1-F8
+Added Net: Name=NetDD1_C8
+Added Pin To Net: NetName=NetDD1_D5 Pin=DD1-D5
+Added Pin To Net: NetName=NetDD1_D5 Pin=R5-2
+Added Net: Name=NetDD1_D5
+Added Pin To Net: NetName=NetDD1_D7 Pin=DD1-D7
+Added Pin To Net: NetName=NetDD1_D7 Pin=R4-2
+Added Net: Name=NetDD1_D7
+Added Pin To Net: NetName=NetDD1_D8 Pin=DD1-D8
+Added Pin To Net: NetName=NetDD1_D8 Pin=R9-2
+Added Pin To Net: NetName=NetDD1_D8 Pin=R10-2
+Added Net: Name=NetDD1_D8
+Added Pin To Net: NetName=NetDD1_E6 Pin=DD1-E6
+Added Pin To Net: NetName=NetDD1_E6 Pin=R7-1
+Added Net: Name=NetDD1_E6
+Added Pin To Net: NetName=NetDD1_E7 Pin=DD1-E7
+Added Pin To Net: NetName=NetDD1_E7 Pin=R8-1
+Added Net: Name=NetDD1_E7
+Added Pin To Net: NetName=PGOOD Pin=DD1-G8
+Added Pin To Net: NetName=PGOOD Pin=DD1-G9
+Added Pin To Net: NetName=PGOOD Pin=R2-2
+Added Pin To Net: NetName=PGOOD Pin=R3-2
+Added Pin To Net: NetName=PGOOD Pin=XP4-1
+Added Pin To Net: NetName=PGOOD Pin=XP4-1
+Added Pin To Net: NetName=PGOOD Pin=XP4-1
+Added Pin To Net: NetName=PGOOD Pin=XP4-1
+Added Net: Name=PGOOD
+Added Pin To Net: NetName=TEMP Pin=DD1-J6
+Added Pin To Net: NetName=TEMP Pin=R1-1
+Added Net: Name=TEMP
+Added Member To Class: ClassName=DZ_Scheme Member=Component C1 Capasitor
+Added Member To Class: ClassName=DZ_Scheme Member=Component C2 Capasitor
+Added Member To Class: ClassName=DZ_Scheme Member=Component C4 Capasitor
+Added Member To Class: ClassName=DZ_Scheme Member=Component C5 Capasitor
+Added Member To Class: ClassName=DZ_Scheme Member=Component C6 Capasitor
+Added Member To Class: ClassName=DZ_Scheme Member=Component C7 Capasitor
+Added Member To Class: ClassName=DZ_Scheme Member=Component C8 Capasitor
+Added Member To Class: ClassName=DZ_Scheme Member=Component C9 Capasitor
+Added Member To Class: ClassName=DZ_Scheme Member=Component C10 Capasitor
+Added Member To Class: ClassName=DZ_Scheme Member=Component C11 Capasitor
+Added Member To Class: ClassName=DZ_Scheme Member=Component C12 Capasitor
+Added Member To Class: ClassName=DZ_Scheme Member=Component R1 Resistor
+Added Member To Class: ClassName=DZ_Scheme Member=Component R2 Resistor
+Added Member To Class: ClassName=DZ_Scheme Member=Component R3 Resistor
+Added Member To Class: ClassName=DZ_Scheme Member=Component R4 Resistor
+Added Member To Class: ClassName=DZ_Scheme Member=Component R5 Resistor
+Added Member To Class: ClassName=DZ_Scheme Member=Component R6 Resistor
+Added Member To Class: ClassName=DZ_Scheme Member=Component R7 Resistor
+Added Member To Class: ClassName=DZ_Scheme Member=Component R8 Resistor
+Added Member To Class: ClassName=DZ_Scheme Member=Component R9 Resistor
+Added Member To Class: ClassName=DZ_Scheme Member=Component R10 Resistor
+Added Member To Class: ClassName=DZ_Scheme Member=Component XP2 1982295-1
+Added Member To Class: ClassName=DZ_Scheme Member=Component XP3 1982295-1
+Added Member To Class: ClassName=DZ_Scheme Member=Component XP4 1982295-1
+Added Room: Name=DZ_Scheme

@@ -1,0 +1,12 @@
+Added Component: Designator=XP4(TEST_ZONE)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1982295-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1982295-1/te-connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773894-6_ELCON_Mini_QRG_EN&DocType=Data+Sheet&DocLang=English&PartCntxt=1982295-1&DocFormat=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1982295-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-1982295-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/1982295-1?qs=TL6PIybY3BPz%2FGEsZ%2FgbXA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PGOOD Pin=XP4-1
+Added Pin To Net: NetName=GND Pin=XP4-2
+Added Member To Class: ClassName=DZ_Scheme Member=Component XP4 1982295-1

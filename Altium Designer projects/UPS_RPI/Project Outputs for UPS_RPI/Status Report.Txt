@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [UPS_RPI.PrjPcb]
+   Generated File[Pcb_BAT_HOLD_V2_GLC_RULES.TXT]
+   Generated File[Pcb_BAT_HOLD_V2_GLC_RULES.LDP]
+   Generated File[Pcb_BAT_HOLD_V2_GLC_RULES.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:31:02 On 18.04.2021

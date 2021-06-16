@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=Net*_7 Pin=*-A3
+Added Pin To Net: NetName=Net*_7 Pin=*-A4
+Added Pin To Net: NetName=Net*_7 Pin=*-A5
+Change Net Name : Old Net Name=Net*_7 New Net Name=Net*_A1
+Added Room: Name=DZ_Scheme

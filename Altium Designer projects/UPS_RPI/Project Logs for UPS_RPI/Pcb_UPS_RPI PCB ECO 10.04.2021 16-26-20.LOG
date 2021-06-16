@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetR7_1 Pin=X2-1
+Removed Pin From Net: NetName=NetR7_1 Pin=X2-2
+Removed Pin From Net: NetName=NetR7_2 Pin=X3-1
+Removed Pin From Net: NetName=HIGH CURRENT_Vout Pin=X5-1
+Removed Pin From Net: NetName=GND Pin=X5-2
+Removed Pin From Net: NetName=HIGH CURRENT_Vout Pin=X6-1
+Removed Pin From Net: NetName=GND Pin=X6-2
+Removed Member From Class: ClassName=Scheme_UPS_RPI Member=X5
+Removed Member From Class: ClassName=Scheme_UPS_RPI Member=X6
+Change Component Footprint: Designator=X2 Old Footprint=CON: WF-02 New Footprint=ECH381R-04P (KLS2-EDR-3.81-04P-4)
+Change Component Footprint: Designator=X3 Old Footprint=CON: WF-02 New Footprint=ECH381R-04P (KLS2-EDR-3.81-04P-4)
+Change Component Footprint: Designator=DA2 Old Footprint=LM1084IT-5.0 New Footprint=Под_провода_для_LM
+Change Component Footprint: Designator=X4 Old Footprint=Держатель батарейки New Footprint=KLS2-EDV-5.08-02P-4
+Change Component Comment : Designator=X4 Old Comment=Держатель батарейки New Comment=
+Change Component Comment : Designator=X3 Old Comment=Разъем 3.3 В с Распбери New Comment=ECH381R-04P
+Change Component Comment : Designator=X2 Old Comment=Разъем сигналов на отключение Распбери New Comment=ECH381R-04P
+Added Pin To Net: NetName=HIGH CURRENT_Vout Pin=X2-1
+Added Pin To Net: NetName=NetR7_2 Pin=X2-2
+Added Pin To Net: NetName=NetR7_1 Pin=X2-3
+Added Pin To Net: NetName=GND Pin=X2-4
+Added Pin To Net: NetName=HIGH CURRENT_Vout Pin=X3-1
+Added Pin To Net: NetName=NetR7_2 Pin=X3-2
+Added Pin To Net: NetName=NetR7_1 Pin=X3-3
+Added Pin To Net: NetName=GND Pin=X3-4
+Change Net Name : Old Net Name=HIGH CURRENT_Vout New Net Name=5V_OUT
+Change Net Name : Old Net Name=NetR7_1 New Net Name=SDN_SIG_1
+Change Net Name : Old Net Name=NetR7_2 New Net Name=3.3V_IN1
+Added Room: Name=Scheme_UPS_RPI

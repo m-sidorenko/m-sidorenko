@@ -1,0 +1,338 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<style type="text/css">
+		h1, h2, h3, h4, h5, h6 { 
+			font-family : segoe ui;
+			color : black;
+			background-color : #EDE7D9;
+			padding: 0.3em;
+		}
+
+		h1 {
+			font-size: 1.2em;
+		}		
+
+		h2 {
+			font-size: 1.2em;
+		}
+
+		body { 
+			font-family : segoe ui;
+		}
+
+		td, th {  
+			padding: 0.5em;
+			text-align : left;
+		}
+		th { 
+			background-color : #EEEEEE;
+		
+		}
+		th.column1, td.column1 { 
+			width : 50%; 
+		}
+
+        th.column2, td.column2 {
+            width : 25%;
+        }
+
+		table { 
+			width : 100%; 
+            font-size: 0.9em;
+		}
+		.front_matter, .front_matter_column1, .front_matter_column2, .front_matter_column3
+		{
+			left : 0;
+			top : 0;
+			padding: 0em;
+			padding-top : 0.1em;
+			border : 0px solid black;
+			width : 100%;
+			vertical-align: top;
+			text-align: left;
+		}
+
+		.front_matter_column1 {
+			width : 5em;
+			font-weight: bold;
+		}
+
+		.front_matter_column2 {
+			width: 0.1em;
+		}
+
+		.front_matter_column3 {
+			width : auto;
+		}
+
+		.total_column1, .total_column {
+			font-weight : bold;
+		}
+		.total_column1 {
+			text-align : left;
+		}
+		.warning, .error { 
+			color : red;
+			font-weight : bold;
+		}	
+		tr.onmouseout_odd { 
+			background-color : #white;
+		}
+		tr.onmouseout_even { 
+			background-color : #FAFAFA;
+		}
+		tr.onmouseover_odd, tr.onmouseover_even { 
+			background-color : #EEEEEE;
+		} 
+		a:link, a:visited, .q a:link,.q a:active,.q {
+			color: #21489e; 
+		}
+		a:link.callback, a:visited.callback { 
+			color: #21489e;
+		}
+		a:link.customize, a:visited.customize {
+			color: #C0C0C0;
+			position: absolute; 
+			right: 10px;
+		}	
+		p.contents_level1 {
+			font-weight : bold;
+			font-size : 110%;
+			margin : 0.5em;
+		}
+		p.contents_level2 {
+			position : relative;
+			left : 20px;
+			margin : 0.5em;
+		}
+	</style><script type="text/javascript">
+		function coordToMils(coord) {
+			var number = coord / 10000;
+			
+			if (number != number.toFixed(3))
+				number = number.toFixed(3);
+			
+			return number + 'mil'
+		}
+
+		function coordToMM(coord) {
+			var number = 0.0254 * coord / 10000;
+			
+			if (number != number.toFixed(4))
+				number = number.toFixed(4);
+			
+			return number + 'mm'
+		}
+	
+		function convertCoord(coordNode, units) {
+			for (var i = 0; i < coordNode.childNodes.length; i++) {
+				coordNode.removeChild(coordNode.childNodes[i]);		
+			}
+
+			var coord = coordNode.getAttribute('value');
+			if (coord != null) {
+				if (units == 'mm') {	
+					textNode = document.createTextNode(coordToMM(coord));
+					coordNode.appendChild(textNode);
+				} else if (units == 'mil') {
+					textNode = document.createTextNode(coordToMils(coord));		
+					coordNode.appendChild(textNode);	
+				}
+			}
+		}
+	
+		function convertUnits(unitNode, units) {
+			for (var i = 0; i < unitNode.childNodes.length; i++) {
+				unitNode.removeChild(unitNode.childNodes[i]);		
+			}
+		
+			textNode = document.createTextNode(units); 
+			unitNode.appendChild(textNode);
+		}
+	
+		function changeUnits(radio_input, units) {
+			if (radio_input.checked) {
+			
+				var elements = document.getElementsByName('coordinate');
+				if (elements) {
+					for (var i = 0; i < elements.length; i++) {
+						convertCoord(elements[i], units);
+					}
+				}
+	
+				var elements = document.getElementsByName('units');
+				if (elements) {
+					for (var i = 0; i < elements.length; i++) {
+						convertUnits(elements[i], units);
+					}
+				}
+			}
+		}	
+	</script><title>Move Component(s) Origin to Grid</title>
+</head>
+<body onload=""><img ALT="Altium" src="
+			file://C:\Users\Public\Documents\Altium\AD20\Templates\AD_logo.png
+		"><a href="dxpprocess://Client:SetupPreferences?Server=PCB|PageName=Reports" class="customize"><acronym title="dxpprocess://Client:SetupPreferences?Server=PCB|PageName=Reports">customize</acronym></a><h1>Move Component(s) Origin to Grid</h1>
+<table class="front_matter">
+<tr class="front_matter">
+<td class="front_matter_column1">Date:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">09.05.2021</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Time:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">10:42:38</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Elapsed Time:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">00:00:00</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Filename:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3"><a href="file:///D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc" class="file"><acronym title="D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc">D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc</acronym></a></td>
+</tr>
+</table><a name="ID34O5AESYLPXBLPLLOV4JPRRCSNKQR45TORIVGPOYBN4VRIPUFORI"><h2>Components Origin</h2></a><a name="IDMQLNYMI5SVMKDDFXCUCKPSQ0YLHRKOT2QUR5FYLU3MQRZLY15I5F"><table>
+<tr>
+<th style="text-align : left" colspan="1" class="warning"></th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=6762.795mil|Location2.X=6949.803mil|Location1.Y=5323.819mil|Location2.Y=5516.559mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=6762.795mil|Location2.X=6949.803mil|Location1.Y=5323.819mil|Location2.Y=5516.559mil|Absolute=True">SMT Small Component R25-CR1206-FW-1504ELF (174.15mm,136.4mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7136.811mil|Location2.X=7323.819mil|Location1.Y=5323.819mil|Location2.Y=5516.559mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7136.811mil|Location2.X=7323.819mil|Location1.Y=5323.819mil|Location2.Y=5516.559mil|Absolute=True">SMT Small Component R24-CR1206-FW-1504ELF (183.65mm,136.4mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7353.347mil|Location2.X=7540.354mil|Location1.Y=5402.559mil|Location2.Y=5595.3mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7353.347mil|Location2.X=7540.354mil|Location1.Y=5402.559mil|Location2.Y=5595.3mil|Absolute=True">SMT Small Component R23-CR1206-FW-1504ELF (189.15mm,138.4mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7884.843mil|Location2.X=8071.85mil|Location1.Y=5245.079mil|Location2.Y=5437.819mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7884.843mil|Location2.X=8071.85mil|Location1.Y=5245.079mil|Location2.Y=5437.819mil|Absolute=True">SMT Small Component R22-CR1206-FW-1504ELF (202.65mm,134.4mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=8416.339mil|Location2.X=8603.346mil|Location1.Y=5087.599mil|Location2.Y=5280.339mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=8416.339mil|Location2.X=8603.346mil|Location1.Y=5087.599mil|Location2.Y=5280.339mil|Absolute=True">SMT Small Component R21-CR1206-FW-1504ELF (216.15mm,130.4mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=8928.15mil|Location2.X=9115.157mil|Location1.Y=5126.969mil|Location2.Y=5319.709mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=8928.15mil|Location2.X=9115.157mil|Location1.Y=5126.969mil|Location2.Y=5319.709mil|Absolute=True">SMT Small Component R20-CR1206-FW-1504ELF (229.15mm,131.4mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2518.946mil|Location2.X=2689.362mil|Location1.Y=2702.183mil|Location2.Y=2989.061mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2518.946mil|Location2.X=2689.362mil|Location1.Y=2702.183mil|Location2.Y=2989.061mil|Absolute=True">SMT Small Component R19-CR1206-FW-1504ELF (65.156mm,71.01mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9873.032mil|Location2.X=10060.039mil|Location1.Y=5166.339mil|Location2.Y=5359.079mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=9873.032mil|Location2.X=10060.039mil|Location1.Y=5166.339mil|Location2.Y=5359.079mil|Absolute=True">SMT Small Component R18-CR1206-FW-1504ELF (253.15mm,132.4mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10404.528mil|Location2.X=10591.535mil|Location1.Y=5166.339mil|Location2.Y=5359.079mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10404.528mil|Location2.X=10591.535mil|Location1.Y=5166.339mil|Location2.Y=5359.079mil|Absolute=True">SMT Small Component R17-CR1206-FW-1504ELF (266.65mm,132.4mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2518.946mil|Location2.X=2689.362mil|Location1.Y=3061.868mil|Location2.Y=3349.132mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2518.946mil|Location2.X=2689.362mil|Location1.Y=3061.868mil|Location2.Y=3349.132mil|Absolute=True">SMT Small Component R16-CR1206-FW-1504ELF (65.156mm,80.146mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2518.946mil|Location2.X=2689.251mil|Location1.Y=3421.553mil|Location2.Y=3708.478mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2518.946mil|Location2.X=2689.251mil|Location1.Y=3421.553mil|Location2.Y=3708.478mil|Absolute=True">SMT Small Component R15-CR1206-FW-1504ELF (65.156mm,89.282mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2518.946mil|Location2.X=2688.992mil|Location1.Y=3781.238mil|Location2.Y=4068.155mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2518.946mil|Location2.X=2688.992mil|Location1.Y=3781.238mil|Location2.Y=4068.155mil|Absolute=True">SMT Small Component R14-CR1206-FW-1504ELF (65.156mm,98.418mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11205.715mil|Location2.X=11392.723mil|Location1.Y=4087.599mil|Location2.Y=4280.34mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11205.715mil|Location2.X=11392.723mil|Location1.Y=4087.599mil|Location2.Y=4280.34mil|Absolute=True">SMT Small Component R13-CR1206-FW-1504ELF (287mm,105mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11441.935mil|Location2.X=11628.943mil|Location1.Y=4087.599mil|Location2.Y=4280.34mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11441.935mil|Location2.X=11628.943mil|Location1.Y=4087.599mil|Location2.Y=4280.34mil|Absolute=True">SMT Small Component R12-CR1206-FW-1504ELF (293mm,105mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11678.156mil|Location2.X=11865.164mil|Location1.Y=4087.599mil|Location2.Y=4280.34mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11678.156mil|Location2.X=11865.164mil|Location1.Y=4087.599mil|Location2.Y=4280.34mil|Absolute=True">SMT Small Component R11-CR1206-FW-1504ELF (299mm,105mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2518.946mil|Location2.X=2688.992mil|Location1.Y=4140.923mil|Location2.Y=4427.565mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2518.946mil|Location2.X=2688.992mil|Location1.Y=4140.923mil|Location2.Y=4427.565mil|Absolute=True">SMT Small Component R10-CR1206-FW-1504ELF (65.156mm,107.554mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3000.984mil|Location2.X=3331.637mil|Location1.Y=2803.15mil|Location2.Y=2895.669mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3000.984mil|Location2.X=3331.637mil|Location1.Y=2803.15mil|Location2.Y=2895.669mil|Absolute=True">SMT Small Component R9-CR1206-FW-1504ELF (78.6mm,72.375mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3045.276mil|Location2.X=3395.614mil|Location1.Y=2578.74mil|Location2.Y=2671.26mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3045.276mil|Location2.X=3395.614mil|Location1.Y=2578.74mil|Location2.Y=2671.26mil|Absolute=True">SMT Small Component R8-CR1206-FW-1504ELF (79.725mm,66.675mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1833.746mil|Location2.X=1953.714mil|Location1.Y=2702.183mil|Location2.Y=2988.923mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1833.746mil|Location2.X=1953.714mil|Location1.Y=2702.183mil|Location2.Y=2988.923mil|Absolute=True">SMT Small Component R7-CR1206-FW-1504ELF (47.763mm,71.01mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1834.163mil|Location2.X=1954.344mil|Location1.Y=3061.868mil|Location2.Y=3348.648mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1834.163mil|Location2.X=1954.344mil|Location1.Y=3061.868mil|Location2.Y=3348.648mil|Absolute=True">SMT Small Component R6-CR1206-FW-1504ELF (47.763mm,80.146mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1834.163mil|Location2.X=1954.344mil|Location1.Y=3421.552mil|Location2.Y=3708.112mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1834.163mil|Location2.X=1954.344mil|Location1.Y=3421.552mil|Location2.Y=3708.112mil|Absolute=True">SMT Small Component R5-CR1206-FW-1504ELF (47.763mm,89.282mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1833.88mil|Location2.X=1953.847mil|Location1.Y=3781.238mil|Location2.Y=4067.88mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1833.88mil|Location2.X=1953.847mil|Location1.Y=3781.238mil|Location2.Y=4067.88mil|Absolute=True">SMT Small Component R4-CR1206-FW-1504ELF (47.763mm,98.418mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2518.946mil|Location2.X=2639.118mil|Location1.Y=4500.608mil|Location2.Y=4787.517mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2518.946mil|Location2.X=2639.118mil|Location1.Y=4500.608mil|Location2.Y=4787.517mil|Absolute=True">SMT Small Component R3-CR1206-FW-1504ELF (65.156mm,116.69mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1834.163mil|Location2.X=1954.587mil|Location1.Y=4140.923mil|Location2.Y=4428.124mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1834.163mil|Location2.X=1954.587mil|Location1.Y=4140.923mil|Location2.Y=4428.124mil|Absolute=True">SMT Small Component R2-CR1206-FW-1504ELF (47.763mm,107.554mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1834.163mil|Location2.X=1934.169mil|Location1.Y=4500.607mil|Location2.Y=4787.281mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1834.163mil|Location2.X=1934.169mil|Location1.Y=4500.607mil|Location2.Y=4787.281mil|Absolute=True">SMT Small Component R1-CR1206-FW-1504ELF (47.763mm,116.69mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10816.142mil|Location2.X=11138.976mil|Location1.Y=7789.37mil|Location2.Y=8384.153mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=10816.142mil|Location2.X=11138.976mil|Location1.Y=7789.37mil|Location2.Y=8384.153mil|Absolute=True">Small Component P7-2-pin_connector (278.83mm,207.175mm) on Bottom Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12344.491mil|Location2.X=12667.326mil|Location1.Y=7909.45mil|Location2.Y=8504.233mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=12344.491mil|Location2.X=12667.326mil|Location1.Y=7909.45mil|Location2.Y=8504.233mil|Absolute=True">Small Component P6-2-pin_connector (317.65mm,210.225mm) on Bottom Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13643.536mil|Location2.X=13966.539mil|Location1.Y=7909.45mil|Location2.Y=8504.233mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13643.536mil|Location2.X=13966.539mil|Location1.Y=7909.45mil|Location2.Y=8504.233mil|Absolute=True">Small Component P5-2-pin_connector (350.65mm,210.225mm) on Bottom Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=14125.595mil|Location2.X=14448.622mil|Location1.Y=7185.039mil|Location2.Y=7779.822mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=14125.595mil|Location2.X=14448.622mil|Location1.Y=7185.039mil|Location2.Y=7779.822mil|Absolute=True">Small Component P4-2-pin_connector (362.895mm,191.825mm) on Bottom Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4128.646mil|Location2.X=4466.732mil|Location1.Y=3561.811mil|Location2.Y=4269.815mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4128.646mil|Location2.X=4466.732mil|Location1.Y=3561.811mil|Location2.Y=4269.815mil|Absolute=True">DIP Component P3-IDC-8pin (108.73mm,98.19mm) on Bottom Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3028.543mil|Location2.X=3526.575mil|Location1.Y=1837.599mil|Location2.Y=2430.634mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3028.543mil|Location2.X=3526.575mil|Location1.Y=1837.599mil|Location2.Y=2430.634mil|Absolute=True">SIP Component P2-S4B-XH-A(LF)(SN) (83.25mm,56mm) on Bottom Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=921.286mil|Location2.X=1259.646mil|Location1.Y=3546.85mil|Location2.Y=4254.5mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=921.286mil|Location2.X=1259.646mil|Location1.Y=3546.85mil|Location2.Y=4254.5mil|Absolute=True">DIP Component P1-IDC-8pin (27.27mm,97.81mm) on Bottom Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11763.562mil|Location2.X=11988.192mil|Location1.Y=7959.647mil|Location2.Y=8489.233mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=11763.562mil|Location2.X=11988.192mil|Location1.Y=7959.647mil|Location2.Y=8489.233mil|Absolute=True">Component IC11-LTV-817-B (301.65mm,208.225mm) on Bottom Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13062.569mil|Location2.X=13287.405mil|Location1.Y=7959.647mil|Location2.Y=8489.233mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=13062.569mil|Location2.X=13287.405mil|Location1.Y=7959.647mil|Location2.Y=8489.233mil|Absolute=True">Component IC10-LTV-817-B (334.65mm,208.225mm) on Bottom Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=14322.552mil|Location2.X=14547.248mil|Location1.Y=7959.647mil|Location2.Y=8489.233mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=14322.552mil|Location2.X=14547.248mil|Location1.Y=7959.647mil|Location2.Y=8489.233mil|Absolute=True">Component IC9-LTV-817-B (366.65mm,208.225mm) on Bottom Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2005.906mil|Location2.X=2435.433mil|Location1.Y=2693.701mil|Location2.Y=2992.746mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2005.906mil|Location2.X=2435.433mil|Location1.Y=2693.701mil|Location2.Y=2992.746mil|Absolute=True">Component IC8-LTV-817-B (57mm,71.27mm) on Bottom Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=6297.238mil|Location2.X=6726.772mil|Location1.Y=2722.441mil|Location2.Y=3047.052mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=6297.238mil|Location2.X=6726.772mil|Location1.Y=2722.441mil|Location2.Y=3047.052mil|Absolute=True">Component IC7-LTV-817-B (166mm,72mm) on Bottom Layer</acronym></a> - Component origin is already ON grid. - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2005.906mil|Location2.X=2435.433mil|Location1.Y=3053.386mil|Location2.Y=3363.061mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2005.906mil|Location2.X=2435.433mil|Location1.Y=3053.386mil|Location2.Y=3363.061mil|Absolute=True">Component IC6-LTV-817-B (57mm,80.406mm) on Bottom Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2005.906mil|Location2.X=2435.433mil|Location1.Y=3413.071mil|Location2.Y=3722.746mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2005.906mil|Location2.X=2435.433mil|Location1.Y=3413.071mil|Location2.Y=3722.746mil|Absolute=True">Component IC5-LTV-817-B (57mm,89.542mm) on Bottom Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2005.906mil|Location2.X=2435.433mil|Location1.Y=3772.756mil|Location2.Y=4082.431mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2005.906mil|Location2.X=2435.433mil|Location1.Y=3772.756mil|Location2.Y=4082.431mil|Absolute=True">Component IC4-LTV-817-B (57mm,98.678mm) on Bottom Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2005.906mil|Location2.X=2435.433mil|Location1.Y=4132.441mil|Location2.Y=4442.116mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2005.906mil|Location2.X=2435.433mil|Location1.Y=4132.441mil|Location2.Y=4442.116mil|Absolute=True">Component IC3-LTV-817-B (57mm,107.814mm) on Bottom Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2005.906mil|Location2.X=2435.433mil|Location1.Y=4492.126mil|Location2.Y=4801.801mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2005.906mil|Location2.X=2435.433mil|Location1.Y=4492.126mil|Location2.Y=4801.801mil|Absolute=True">Component IC2-LTV-817-B (57mm,116.95mm) on Bottom Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3104.724mil|Location2.X=3507.008mil|Location1.Y=3212.402mil|Location2.Y=4734.036mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3104.724mil|Location2.X=3507.008mil|Location1.Y=3212.402mil|Location2.Y=4734.036mil|Absolute=True">DIP Component IC1-MCP23017-E_SP (83.969mm,99.65mm) on Bottom Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3686.614mil|Location2.X=3986.165mil|Location1.Y=2609.843mil|Location2.Y=2695.276mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3686.614mil|Location2.X=3986.165mil|Location1.Y=2609.843mil|Location2.Y=2695.276mil|Absolute=True">SMT Small Component C2-C3216C0G1H683J160AE (95.725mm,67.375mm) on Top Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=D:\_%D0%A3%D1%87%D0%B5%D0%B1%D0%B0\_%D0%92%D0%BE%D0%B5%D0%BD%D0%BA%D0%B0\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3607.283mil|Location2.X=3845.472mil|Location1.Y=2265.748mil|Location2.Y=2603.499mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=D:\_Учеба\_Военка\MCP_RPI\MCP_RPI\PCB.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3607.283mil|Location2.X=3845.472mil|Location1.Y=2265.748mil|Location2.Y=2603.499mil|Absolute=True">Small Component C1-EEU-FR1V330 (95.65mm,60.575mm) on Bottom Layer</acronym></a> - Component pads are OFF grid. No action taken.</td>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br></body>
+</html>

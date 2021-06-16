@@ -1,0 +1,6 @@
+Added Component: Designator=*(BGA144C127P12X12_1600X1600X501)
+Added Pin To Net: NetName=Net*_7 Pin=*-A1
+Added Pin To Net: NetName=Net*_7 Pin=*-A2
+Added Net: Name=Net*_7
+Added Class: Name=DZ_Scheme
+Added Room: Name=DZ_Scheme

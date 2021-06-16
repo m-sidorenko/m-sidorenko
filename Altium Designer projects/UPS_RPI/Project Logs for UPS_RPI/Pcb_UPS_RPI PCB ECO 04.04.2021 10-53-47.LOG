@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=HIGH CURRENT Pin=DA1-1
+Removed Pin From Net: NetName=HIGH CURRENT Pin=SB1-2
+Removed Pin From Net: NetName=HIGH CURRENT Pin=VD1-1
+Removed Pin From Net: NetName=HIGH CURRENT Pin=VD2-1
+Removed Pin From Net: NetName=HIGH CURRENT Pin=VD3-1
+Removed Pin From Net: NetName=HIGH CURRENT Pin=VD4-1
+Added Pin To Net: NetName=HIGH CURRENT_IN Pin=DA1-1
+Added Pin To Net: NetName=HIGH CURRENT_IN Pin=SB1-2
+Added Pin To Net: NetName=HIGH CURRENT_IN Pin=VD1-1
+Added Pin To Net: NetName=HIGH CURRENT_IN Pin=VD2-1
+Added Pin To Net: NetName=HIGH CURRENT_IN Pin=VD3-1
+Added Pin To Net: NetName=HIGH CURRENT_IN Pin=VD4-1
+Added Net: Name=HIGH CURRENT_IN
+Added Class: Name=Scheme_UPS_RPI
+Added Room: Name=Scheme_UPS_RPI

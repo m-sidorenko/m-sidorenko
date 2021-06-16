@@ -1,0 +1,16 @@
+BGA Escape Route
+Filename     : D:\_Учеба\_Дистанционка\4 курс\2 сем\Osnovy_constr\DZ\DZ_project\DZ_PCB.PcbDoc
+Date         : 08.04.2021
+Time         : 19:22:29
+Time Elapsed : 00:00:00
+
+DD1
+    Pad DD1-F9(66.85mm,55.31mm) on Top Layer on  No Net 
+    Pad DD1-J7(64.31mm,51.5mm) on Top Layer on  No Net 
+    Pad DD1-E5(61.77mm,56.58mm) on Top Layer on Net NetC12_2
+    Pad DD1-H5(61.77mm,52.77mm) on Top Layer on Net GND
+    Pad DD1-F5(61.77mm,55.31mm) on Top Layer on  No Net 
+    Pad DD1-G5(61.77mm,54.04mm) on Top Layer on  No Net 
+    Pad DD1-F6(63.04mm,55.31mm) on Top Layer on Net GND
+    Pad DD1-G6(63.04mm,54.04mm) on Top Layer on Net GND
+count : 8

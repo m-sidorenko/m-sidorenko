@@ -1,0 +1,3 @@
+Added Member To Class: ClassName=DZ_Scheme Member=Component C3 Capasitor
+Change Room Name: Old Name=BGA_Fanout New Name=DZ_Scheme
+Change Room Scope: Old Scope=InComponentClass('Room Definition 1') New Scope=InComponentClass('DZ_Scheme')

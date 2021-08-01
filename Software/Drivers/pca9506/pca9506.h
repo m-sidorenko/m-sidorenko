@@ -1,44 +1,22 @@
-#ifndef __PCA9506_H__
-#define __PCA9506_H__
+#ifndef __PCA9506_HPP__
+#define __PCA9506_HPP__
 
-#include "types.h"
-#include "cpu.h"
-#include "gpio.h"
+#include <stm32f4xx_hal.h> 		// set HAL version for your chip
 
-/*
-        stm_check_v1 I2C addresses:
-
-        DD4 (OUT 24 V)  ---> PCA_ADDR_0
-        DD5 (OUT 220 V) ---> PCA_ADDR_1
-        DD6 (INPUT) ---> PCA_ADDR_2
-*/
+#define			I2C_DELAY				50
 
 //--------------------------------------------
-//             ADDRESS on I2C bus
+//          	I2C ADDRESS
 
 #define         PCA_ADDR_0              0x20 << 1
 #define         PCA_ADDR_1              0x21 << 1
 #define         PCA_ADDR_2              0x22 << 1
-
-
-//--------------------------------------------
-//              PCA PINS
- 
-#define         GPIO_PIN_PCA1_RST       GPIO_PIN_13
-#define         GPIO_PORT_PCA1_RST      GPIOC
-#define         GPIO_PIN_PCA1_OE        GPIO_PIN_12
-#define         GPIO_PORT_PCA1_OE       GPIOC
-
-#define         GPIO_PIN_PCA2_RST       GPIO_PIN_0
-#define         GPIO_PORT_PCA2_RST      GPIOD
-#define         GPIO_PIN_PCA2_OE        GPIO_PIN_2
-#define         GPIO_PORT_PCA2_OE       GPIOD
-
-#define         GPIO_PIN_PCA3_RST       GPIO_PIN_3
-#define         GPIO_PORT_PCA3_RST      GPIOC
-#define         GPIO_PIN_PCA3_OE        GPIO_PIN_2
-#define         GPIO_PORT_PCA3_OE       GPIOC
-
+#define         PCA_ADDR_3              0x23 << 1
+#define         PCA_ADDR_4              0x24 << 1
+#define         PCA_ADDR_5              0x25 << 1
+#define         PCA_ADDR_6              0x26 << 1
+#define         PCA_ADDR_7              0x27 << 1
+#define         PCA_ADDR_8              0x28 << 1
 
 //--------------------------------------------
 //              REGISTERS MAP 
@@ -71,47 +49,52 @@
 //--------------------------------------------
 //               COMANDS
 
-                  //config
+                 // config
 #define         PCA_CMD_WR_CFG          PCA_REG_IOC ^ 0x80
-                  //read
+
+                 // write
 #define         PCA_CMD_WR_PORTS        PCA_REG_OP  ^ 0x80 
 #define         PCA_CMD_WR_PORT         PCA_REG_OP
-                  //write
+
+                 // read
 #define         PCA_CMD_RD_PORTS        PCA_REG_IP  ^ 0x80
 #define         PCA_CMD_RD_PORT         PCA_REG_IP
-      
-#define         PCA_SET_PIN             1
-#define         PCA_CLR_PIN             0
+
+
 /*----------------------------------------------------------------------------
-
                             CLASS FOR PCA9506
-
 *---------------------------------------------------------------------------*/
+
 class pca9506{
-  
+
 public:
-  byte init(uint8_t pca_addr, I2C_HandleTypeDef* hi2c);
-  byte config(uint8_t* ports_config);
+
+  /* init and config */
+  void gpio_init(GPIO_TypeDef* OE_PORT, uint16_t OE_PIN, GPIO_TypeDef* RST_PORT, uint16_t RST_PIN);
+  void init(uint16_t pca_addr, I2C_HandleTypeDef* hi2c);
+  uint8_t config(uint8_t* ports_config);
   
-  /* write operations*/
-  byte write_all_ports(uint8_t* ports_state);
-  byte write_port(uint8_t port_number, uint8_t port_state);
-  byte write_pin(uint8_t port_number, uint8_t pin_number, uint8_t pin_state);
+  /* write operations */
+  uint8_t write_all_ports(uint8_t* ports_state);
+  uint8_t write_port(uint8_t port_number, uint8_t port_state);
+  uint8_t write_pin(uint8_t port_number, uint8_t pin_number, uint8_t pin_state);
   
   /* read operations */
-  byte read_all_ports(uint8_t* data);
-  byte read_port(uint8_t port_number);
-  byte read_pin(uint8_t port_number, uint8_t pin_number);
+  uint8_t read_all_ports(uint8_t* data);
+  uint8_t read_port(uint8_t port_number);
+  uint8_t read_pin(uint8_t port_number, uint8_t pin_number);
   
+  /* get information */
+  uint16_t get_address();
+  uint8_t* get_config();
+
 private:
-  I2C_HandleTypeDef* pca_hi2c;
-  uint8_t pca_address;
-  uint8_t pca_ports_cfg[5] = {0,};
-  uint8_t pca_ports_st[5] = {0,};
-};  
+  I2C_HandleTypeDef* pca_hi2c;		// i2c handle
+  uint16_t pca_address;				// chip address on I2C bus
+  uint8_t  pca_ports_st[5]; 		// ports state
+  uint8_t  pca_ports_cfg[5];		// ports configuration
 
-
-
+};
 
 #endif
 // *********************************** E N D **********************************

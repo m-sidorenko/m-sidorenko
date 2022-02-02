@@ -1,0 +1,65 @@
+Change Component Designator: OldDesignator=R76_2 NewDesignator=R76_3
+Change Component Designator: OldDesignator=R76_3 NewDesignator=R76_4
+Change Component Designator: OldDesignator=R76_4 NewDesignator=R76_5
+Change Component Designator: OldDesignator=R76_5 NewDesignator=R76_2
+Change Component Designator: OldDesignator=R77_2 NewDesignator=R77_3
+Change Component Designator: OldDesignator=R77_3 NewDesignator=R77_4
+Change Component Designator: OldDesignator=R77_4 NewDesignator=R77_5
+Change Component Designator: OldDesignator=R77_5 NewDesignator=R77_2
+Change Component Designator: OldDesignator=R78_2 NewDesignator=R78_3
+Change Component Designator: OldDesignator=R78_3 NewDesignator=R78_4
+Change Component Designator: OldDesignator=R78_4 NewDesignator=R78_5
+Change Component Designator: OldDesignator=R78_5 NewDesignator=R78_2
+Change Component Designator: OldDesignator=VD45_2 NewDesignator=VD45_3
+Change Component Designator: OldDesignator=VD45_3 NewDesignator=VD45_4
+Change Component Designator: OldDesignator=VD45_4 NewDesignator=VD45_5
+Change Component Designator: OldDesignator=VD45_5 NewDesignator=VD45_2
+Change Component Designator: OldDesignator=VD46_2 NewDesignator=VD46_3
+Change Component Designator: OldDesignator=VD46_3 NewDesignator=VD46_4
+Change Component Designator: OldDesignator=VD46_4 NewDesignator=VD46_5
+Change Component Designator: OldDesignator=VD46_5 NewDesignator=VD46_2
+Change Component Designator: OldDesignator=VT41_2 NewDesignator=VT41_3
+Change Component Designator: OldDesignator=VT41_3 NewDesignator=VT41_4
+Change Component Designator: OldDesignator=VT41_4 NewDesignator=VT41_5
+Change Component Designator: OldDesignator=VT41_5 NewDesignator=VT41_2
+Change Component Designator: OldDesignator=VT42_2 NewDesignator=VT42_3
+Change Component Designator: OldDesignator=VT42_3 NewDesignator=VT42_4
+Change Component Designator: OldDesignator=VT42_4 NewDesignator=VT42_5
+Change Component Designator: OldDesignator=VT42_5 NewDesignator=VT42_2
+Change Net Name : Old Net Name=NetR76_2_1 New Net Name=NetR76_3_1
+Change Net Name : Old Net Name=NetR76_2_2 New Net Name=NetR76_3_2
+Change Net Name : Old Net Name=NetR76_3_1 New Net Name=NetR76_4_1
+Change Net Name : Old Net Name=NetR76_3_2 New Net Name=NetR76_4_2
+Change Net Name : Old Net Name=NetR76_4_1 New Net Name=NetR76_5_1
+Change Net Name : Old Net Name=NetR76_4_2 New Net Name=NetR76_5_2
+Change Net Name : Old Net Name=NetR76_5_1 New Net Name=NetR76_2_1
+Change Net Name : Old Net Name=NetR76_5_2 New Net Name=NetR76_2_2
+Change Net Name : Old Net Name=NetR78_2_2 New Net Name=NetR78_3_2
+Change Net Name : Old Net Name=NetR78_3_2 New Net Name=NetR78_4_2
+Change Net Name : Old Net Name=NetR78_4_2 New Net Name=NetR78_5_2
+Change Net Name : Old Net Name=NetR78_5_2 New Net Name=NetR78_2_2
+Change Class Name : Old Net Name=U_Channel1 New Net Name=U_Channel 1
+Change Class Name : Old Net Name=U_Channel2 New Net Name=U_Channel 5
+Change Class Name : Old Net Name=U_Channel3 New Net Name=U_Channel 3
+Change Class Name : Old Net Name=U_Channel4 New Net Name=U_Channel 4
+Added Member To Class: ClassName=U_Channel 2 Member=Component R76_2 (R76) Resistor film, 1K, ±5%, 1206, 0.25W, -55...+125°C
+Added Member To Class: ClassName=U_Channel 5 Member=Component R76_5 (R76) Resistor film, 1K, ±5%, 1206, 0.25W, -55...+125°C
+Added Member To Class: ClassName=U_Channel 2 Member=Component R77_2 (R77) Resistor film, 10K, ±5%, 1206, 0.25W, -55...+125°C
+Added Member To Class: ClassName=U_Channel 5 Member=Component R77_5 (R77) Resistor film, 10K, ±5%, 1206, 0.25W, -55...+125°C
+Added Member To Class: ClassName=U_Channel 2 Member=Component R78_2 (R78) Resistor film, 1K, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=U_Channel 5 Member=Component R78_5 (R78) Resistor film, 1K, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=U_Channel 2 Member=Component VD45_2 (VD45) Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150°C
+Added Member To Class: ClassName=U_Channel 5 Member=Component VD45_5 (VD45) Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150°C
+Added Member To Class: ClassName=U_Channel 2 Member=Component VD46_2 (VD46) Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150°C
+Added Member To Class: ClassName=U_Channel 5 Member=Component VD46_5 (VD46) Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150°C
+Added Member To Class: ClassName=U_Channel 2 Member=Component VT41_2 (VT41) NPN transistor, 45V, 100mA, 100MHz, 300mW, 0.6V, 420, SOT-23, -55...+125°C
+Added Member To Class: ClassName=U_Channel 5 Member=Component VT41_5 (VT41) NPN transistor, 45V, 100mA, 100MHz, 300mW, 0.6V, 420, SOT-23, -55...+125°C
+Added Member To Class: ClassName=U_Channel 2 Member=Component VT42_2 (VT42) PNP transistor, 45V, 100mA, 100MHz, 300mW, 0.65V, 220, SOT-23, -55...+125°C
+Added Member To Class: ClassName=U_Channel 5 Member=Component VT42_5 (VT42) PNP transistor, 45V, 100mA, 100MHz, 300mW, 0.65V, 220, SOT-23, -55...+125°C
+Change Room Name: Old Name=U_Channel2 New Name=U_Channel 3
+Change Room Scope: Old Scope=InComponentClass('U_Channel2') New Scope=InComponentClass('U_Channel 3')
+Change Room Name: Old Name=U_Channel3 New Name=U_Channel 4
+Change Room Scope: Old Scope=InComponentClass('U_Channel3') New Scope=InComponentClass('U_Channel 4')
+Change Room Name: Old Name=U_Channel4 New Name=U_Channel 5
+Change Room Scope: Old Scope=InComponentClass('U_Channel4') New Scope=InComponentClass('U_Channel 5')
+Added Room: Name=U_Channel 1

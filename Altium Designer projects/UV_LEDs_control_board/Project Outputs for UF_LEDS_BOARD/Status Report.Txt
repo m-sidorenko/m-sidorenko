@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [UF_LEDS_BOARD.PrjPcb]
+   Generated File[PCB_v0.1.TXT]
+   Generated File[PCB_v0.1.LDP]
+   Generated File[PCB_v0.1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:08:24 On 28.09.2021

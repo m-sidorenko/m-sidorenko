@@ -1,0 +1,79 @@
+Added Component: Designator=J1(Connector_29pin)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(Connector_29pin)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SCL Pin=J1-1
+Added Pin To Net: NetName=SDA Pin=J1-2
+Added Pin To Net: NetName=5V Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=24V_IN_0 Pin=J1-5
+Added Pin To Net: NetName=24V_IN_1 Pin=J1-6
+Added Pin To Net: NetName=24V_IN_2 Pin=J1-7
+Added Pin To Net: NetName=24V_IN_3 Pin=J1-8
+Added Pin To Net: NetName=24V_IN_4 Pin=J1-9
+Added Pin To Net: NetName=24V_IN_5 Pin=J1-10
+Added Pin To Net: NetName=24V_IN_6 Pin=J1-11
+Added Pin To Net: NetName=24V_IN_7 Pin=J1-12
+Added Pin To Net: NetName=24V_IN_8 Pin=J1-13
+Added Pin To Net: NetName=24V_IN_9 Pin=J1-14
+Added Pin To Net: NetName=24V_IN_10 Pin=J1-15
+Added Pin To Net: NetName=24V_IN_11 Pin=J1-16
+Added Pin To Net: NetName=24V_IN_12 Pin=J1-17
+Added Pin To Net: NetName=24V_IN_13 Pin=J1-18
+Added Pin To Net: NetName=24V_IN_14 Pin=J1-19
+Added Pin To Net: NetName=24V_IN_15 Pin=J1-20
+Added Pin To Net: NetName=24V_IN_16 Pin=J1-21
+Added Pin To Net: NetName=24V_IN_17 Pin=J1-22
+Added Pin To Net: NetName=24V_IN_18 Pin=J1-23
+Added Pin To Net: NetName=24V_IN_19 Pin=J1-24
+Added Pin To Net: NetName=24V_IN_20 Pin=J1-25
+Added Pin To Net: NetName=24V_IN_21 Pin=J1-26
+Added Pin To Net: NetName=24V_IN_22 Pin=J1-27
+Added Pin To Net: NetName=24V_IN_23 Pin=J1-28
+Added Pin To Net: NetName=24V_IN_24 Pin=J1-29
+Added Pin To Net: NetName=24V_OUT_0 Pin=J2-1
+Added Pin To Net: NetName=24V_OUT_1 Pin=J2-2
+Added Pin To Net: NetName=24V_OUT_2 Pin=J2-3
+Added Pin To Net: NetName=24V_OUT_3 Pin=J2-4
+Added Pin To Net: NetName=24V_OUT_4 Pin=J2-5
+Added Pin To Net: NetName=24V_OUT_5 Pin=J2-6
+Added Pin To Net: NetName=24V_OUT_6 Pin=J2-7
+Added Pin To Net: NetName=24V_OUT_7 Pin=J2-8
+Added Pin To Net: NetName=24V_OUT_8 Pin=J2-9
+Added Pin To Net: NetName=24V_OUT_9 Pin=J2-10
+Added Pin To Net: NetName=24V_OUT_10 Pin=J2-11
+Added Pin To Net: NetName=24V_OUT_11 Pin=J2-12
+Added Pin To Net: NetName=24V_OUT_12 Pin=J2-13
+Added Pin To Net: NetName=24V_OUT_13 Pin=J2-14
+Added Pin To Net: NetName=24V_OUT_14 Pin=J2-15
+Added Pin To Net: NetName=24V_OUT_15 Pin=J2-16
+Added Pin To Net: NetName=24V_OUT_16 Pin=J2-17
+Added Pin To Net: NetName=24V_OUT_17 Pin=J2-18
+Added Pin To Net: NetName=24V_OUT_18 Pin=J2-19
+Added Pin To Net: NetName=24V_OUT_19 Pin=J2-20
+Added Pin To Net: NetName=24V_OUT_20 Pin=J2-21
+Added Pin To Net: NetName=24V_OUT_21 Pin=J2-22
+Added Pin To Net: NetName=24V_OUT_22 Pin=J2-23
+Added Pin To Net: NetName=24V_OUT_23 Pin=J2-24
+Added Pin To Net: NetName=24V_OUT_24 Pin=J2-25
+Added Pin To Net: NetName=SCL Pin=J2-26
+Added Pin To Net: NetName=SDA Pin=J2-27
+Added Pin To Net: NetName=5V Pin=J2-28
+Added Pin To Net: NetName=GND Pin=J2-29
+Added Member To Class: ClassName=Scheme Member=Component J1 CONNECTOR_29PIN
+Added Member To Class: ClassName=Scheme Member=Component J2 CONNECTOR_29PIN
+Added Room: Name=Scheme

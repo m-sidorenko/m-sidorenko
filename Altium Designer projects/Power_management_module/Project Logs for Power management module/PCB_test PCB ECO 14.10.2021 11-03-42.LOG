@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=24V_IN_1 Pin=R11-1
+Removed Pin From Net: NetName=SIG_1 Pin=R16-1
+Removed Pin From Net: NetName=GND Pin=VD7-1
+Removed Pin From Net: NetName=24V_IN_1 Pin=VD7-2
+Removed Pin From Net: NetName=GND Pin=VD10-1
+Removed Pin From Net: NetName=24V_OUT_1 Pin=VD10-2
+Removed Pin From Net: NetName=GND Pin=VT7-3
+Removed Pin From Net: NetName=24V_IN_1 Pin=VT11-2
+Removed Pin From Net: NetName=24V_OUT_1 Pin=VT11-3
+Removed Member From Class: ClassName=Scheme Member=R10
+Removed Member From Class: ClassName=Scheme Member=R11
+Removed Member From Class: ClassName=Scheme Member=R16
+Removed Member From Class: ClassName=Scheme Member=VD7
+Removed Member From Class: ClassName=Scheme Member=VD10
+Removed Member From Class: ClassName=Scheme Member=VT7
+Removed Member From Class: ClassName=Scheme Member=VT11

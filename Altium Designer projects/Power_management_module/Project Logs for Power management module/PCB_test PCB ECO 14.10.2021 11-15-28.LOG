@@ -1,0 +1,6 @@
+Change Class Name : Old Net Name=U_Channel 41 New Net Name=U_Channel 4
+Change Class Name : Old Net Name=U_Channel 42 New Net Name=U_Channel 5
+Change Room Name: Old Name=U_Channel 41 New Name=U_Channel 4
+Change Room Scope: Old Scope=InComponentClass('U_Channel 41') New Scope=InComponentClass('U_Channel 4')
+Change Room Name: Old Name=U_Channel 42 New Name=U_Channel 5
+Change Room Scope: Old Scope=InComponentClass('U_Channel 42') New Scope=InComponentClass('U_Channel 5')

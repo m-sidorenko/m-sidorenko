@@ -1,0 +1,17 @@
+Change Component Description : Designator=LED5 Old Description=UF-LED, 30mA New Description=UV-LED, 30mA
+Change Component Description : Designator=LED6 Old Description=UF-LED, 30mA New Description=UV-LED, 30mA
+Change Component Description : Designator=LED7 Old Description=UF-LED, 30mA New Description=UV-LED, 30mA
+Change Component Description : Designator=LED8 Old Description=UF-LED, 30mA New Description=UV-LED, 30mA
+Added Pin To Net: NetName=NetLED5_1 Pin=LED5-3
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-4
+Added Pin To Net: NetName=NetLED6_1 Pin=LED6-3
+Added Pin To Net: NetName=NetLED5_2 Pin=LED6-4
+Added Pin To Net: NetName=NetLED7_1 Pin=LED7-3
+Added Pin To Net: NetName=NetLED5_2 Pin=LED7-4
+Added Pin To Net: NetName=NetLED8_1 Pin=LED8-3
+Added Pin To Net: NetName=NetLED5_2 Pin=LED8-4
+Change Net Name : Old Net Name=NetLED5_1 New Net Name=NetLED5_3
+Change Net Name : Old Net Name=NetLED5_2 New Net Name=NetLED5_4
+Change Net Name : Old Net Name=NetLED6_1 New Net Name=NetLED6_3
+Change Net Name : Old Net Name=NetLED7_1 New Net Name=NetLED7_3
+Change Net Name : Old Net Name=NetLED8_1 New Net Name=NetLED8_3

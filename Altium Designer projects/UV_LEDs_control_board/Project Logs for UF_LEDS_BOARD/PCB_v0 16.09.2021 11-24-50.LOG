@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=NetR7_2 Pin=VT1-1
+Removed Pin From Net: NetName=GND Pin=VT1-3
+Removed Pin From Net: NetName=NetR18_2 Pin=VT2-1
+Removed Pin From Net: NetName=GND Pin=VT2-3
+Removed Pin From Net: NetName=NetR19_2 Pin=VT3-1
+Removed Pin From Net: NetName=GND Pin=VT3-3
+Change Component DesignItemId : Designator=VT1 Old DesignItemId=BJT_NPN_123 New DesignItemId=2SC4672
+Change Component DesignItemId : Designator=VT2 Old DesignItemId=BJT_NPN_123 New DesignItemId=2SC4672
+Change Component DesignItemId : Designator=VT3 Old DesignItemId=BJT_NPN_123 New DesignItemId=2SC4672
+Change Component Footprint: Designator=VT1 Old Footprint=SOT89 New Footprint=2SC4672
+Change Component Footprint: Designator=VT2 Old Footprint=SOT89 New Footprint=2SC4672
+Change Component Footprint: Designator=VT3 Old Footprint=SOT89 New Footprint=2SC4672
+Change Component Comment : Designator=VT1 Old Comment=NPN transistor, 45V, 100mA, 100MHz, 300mW, 0.6V, 420, SOT-23, -55...+125°C New Comment=2SC4672
+Change Component Comment : Designator=VT2 Old Comment=NPN transistor, 45V, 100mA, 100MHz, 300mW, 0.6V, 420, SOT-23, -55...+125°C New Comment=2SC4672
+Change Component Comment : Designator=VT3 Old Comment=NPN transistor, 45V, 100mA, 100MHz, 300mW, 0.6V, 420, SOT-23, -55...+125°C New Comment=2SC4672
+Change Component Library : Designator=C1 Old Library=Capacitor.IntLib New Library=Electromechanics.IntLib
+Change Component Library : Designator=C6 Old Library=Capacitor.IntLib New Library=Electromechanics.IntLib
+Change Component Library : Designator=VT1 Old Library=Transistor.IntLib New Library=Schlib.SchLib
+Change Component Library : Designator=VT2 Old Library=Transistor.IntLib New Library=Schlib.SchLib
+Change Component Library : Designator=VT3 Old Library=Transistor.IntLib New Library=Schlib.SchLib
+Change component parameters: Designator = "R1"; Footprint = "RES: 0805"; UniqueID = "\OXNJDQNA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 0, ±5%, 0805, 0.125W, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "RES: 0805"; UniqueID = "\HFQFOYXB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 0, ±5%, 0805, 0.125W, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "RES: 0805"; UniqueID = "\ZWMCSUJN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 0, ±5%, 0805, 0.125W, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "RES: 0805"; UniqueID = "\LGIHCZFV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 0, ±5%, 0805, 0.125W, -55...+125°C"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT1"; Footprint = "2SC4672"; UniqueID = "\GJOXGTLJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "VT2"; Footprint = "2SC4672"; UniqueID = "\TAKUZEZS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "VT3"; Footprint = "2SC4672"; UniqueID = "\DYXEIFZV"
+Change component parameters. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=VT1-1
+Added Pin To Net: NetName=NetR7_2 Pin=VT1-3
+Added Pin To Net: NetName=GND Pin=VT2-1
+Added Pin To Net: NetName=NetR18_2 Pin=VT2-3
+Added Pin To Net: NetName=GND Pin=VT3-1
+Added Pin To Net: NetName=NetR19_2 Pin=VT3-3

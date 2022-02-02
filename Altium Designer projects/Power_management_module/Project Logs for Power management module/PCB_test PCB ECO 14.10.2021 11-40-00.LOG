@@ -1,0 +1,518 @@
+Removed Pin From Net: NetName=NetR1_4_1 Pin=R1_4-1
+Removed Pin From Net: NetName=NetR1_4_2 Pin=R1_4-2
+Removed Pin From Net: NetName=NetR1_5_1 Pin=R1_5-1
+Removed Pin From Net: NetName=NetR1_5_2 Pin=R1_5-2
+Removed Pin From Net: NetName=24V_IN_3 Pin=R2_4-1
+Removed Pin From Net: NetName=NetR1_4_1 Pin=R2_4-2
+Removed Pin From Net: NetName=24V_IN_4 Pin=R2_5-1
+Removed Pin From Net: NetName=NetR1_5_1 Pin=R2_5-2
+Removed Pin From Net: NetName=SIG_3 Pin=R7_4-1
+Removed Pin From Net: NetName=NetR7_4_2 Pin=R7_4-2
+Removed Pin From Net: NetName=SIG_4 Pin=R7_5-1
+Removed Pin From Net: NetName=NetR7_5_2 Pin=R7_5-2
+Removed Pin From Net: NetName=GND Pin=VD1_4-1
+Removed Pin From Net: NetName=24V_IN_3 Pin=VD1_4-2
+Removed Pin From Net: NetName=GND Pin=VD1_5-1
+Removed Pin From Net: NetName=24V_IN_4 Pin=VD1_5-2
+Removed Pin From Net: NetName=GND Pin=VD4_4-1
+Removed Pin From Net: NetName=24V_OUT_3 Pin=VD4_4-2
+Removed Pin From Net: NetName=GND Pin=VD4_5-1
+Removed Pin From Net: NetName=24V_OUT_4 Pin=VD4_5-2
+Removed Pin From Net: NetName=NetR7_4_2 Pin=VT1_4-1
+Removed Pin From Net: NetName=NetR1_4_2 Pin=VT1_4-2
+Removed Pin From Net: NetName=GND Pin=VT1_4-3
+Removed Pin From Net: NetName=NetR7_5_2 Pin=VT1_5-1
+Removed Pin From Net: NetName=NetR1_5_2 Pin=VT1_5-2
+Removed Pin From Net: NetName=GND Pin=VT1_5-3
+Removed Pin From Net: NetName=NetR1_4_1 Pin=VT4_4-1
+Removed Pin From Net: NetName=24V_IN_3 Pin=VT4_4-2
+Removed Pin From Net: NetName=24V_OUT_3 Pin=VT4_4-3
+Removed Pin From Net: NetName=NetR1_5_1 Pin=VT4_5-1
+Removed Pin From Net: NetName=24V_IN_4 Pin=VT4_5-2
+Removed Pin From Net: NetName=24V_OUT_4 Pin=VT4_5-3
+Removed Member From Class: ClassName=U_Channel 4 Member=R1_4
+Removed Member From Class: ClassName=U_Channel 5 Member=R1_5
+Removed Member From Class: ClassName=U_Channel 4 Member=R2_4
+Removed Member From Class: ClassName=U_Channel 5 Member=R2_5
+Removed Member From Class: ClassName=U_Channel 4 Member=R7_4
+Removed Member From Class: ClassName=U_Channel 5 Member=R7_5
+Removed Member From Class: ClassName=U_Channel 4 Member=VD1_4
+Removed Member From Class: ClassName=U_Channel 5 Member=VD1_5
+Removed Member From Class: ClassName=U_Channel 4 Member=VD4_4
+Removed Member From Class: ClassName=U_Channel 5 Member=VD4_5
+Removed Member From Class: ClassName=U_Channel 4 Member=VT1_4
+Removed Member From Class: ClassName=U_Channel 5 Member=VT1_5
+Removed Member From Class: ClassName=U_Channel 4 Member=VT4_4
+Removed Member From Class: ClassName=U_Channel 5 Member=VT4_5
+Change Component Designator: OldDesignator=R1_1 NewDesignator=R76_1
+Change Component Designator: OldDesignator=R1_2 NewDesignator=R76_2
+Change Component Designator: OldDesignator=R1_3 NewDesignator=R76_3
+Change Component Designator: OldDesignator=R2_1 NewDesignator=R77_1
+Change Component Designator: OldDesignator=R2_2 NewDesignator=R77_2
+Change Component Designator: OldDesignator=R2_3 NewDesignator=R77_3
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator=R5 NewDesignator=R3
+Change Component Designator: OldDesignator=R6 NewDesignator=R4
+Change Component Designator: OldDesignator=R7_1 NewDesignator=R78_1
+Change Component Designator: OldDesignator=R7_2 NewDesignator=R78_2
+Change Component Designator: OldDesignator=R7_3 NewDesignator=R78_3
+Change Component Designator: OldDesignator=R8 NewDesignator=R5
+Change Component Designator: OldDesignator=R9 NewDesignator=R6
+Change Component Designator: OldDesignator=R12 NewDesignator=R7
+Change Component Designator: OldDesignator=R13 NewDesignator=R8
+Change Component Designator: OldDesignator=R14 NewDesignator=R9
+Change Component Designator: OldDesignator=R15 NewDesignator=R10
+Change Component Designator: OldDesignator=R17 NewDesignator=R11
+Change Component Designator: OldDesignator=R18 NewDesignator=R12
+Change Component Designator: OldDesignator=R21 NewDesignator=R13
+Change Component Designator: OldDesignator=R22 NewDesignator=R14
+Change Component Designator: OldDesignator=R23 NewDesignator=R15
+Change Component Designator: OldDesignator=R24 NewDesignator=R16
+Change Component Designator: OldDesignator=R26 NewDesignator=R17
+Change Component Designator: OldDesignator=R27 NewDesignator=R18
+Change Component Designator: OldDesignator=R30 NewDesignator=R19
+Change Component Designator: OldDesignator=R31 NewDesignator=R20
+Change Component Designator: OldDesignator=R32 NewDesignator=R21
+Change Component Designator: OldDesignator=R33 NewDesignator=R22
+Change Component Designator: OldDesignator=R35 NewDesignator=R23
+Change Component Designator: OldDesignator=R36 NewDesignator=R24
+Change Component Designator: OldDesignator=R39 NewDesignator=R25
+Change Component Designator: OldDesignator=R40 NewDesignator=R26
+Change Component Designator: OldDesignator=R41 NewDesignator=R27
+Change Component Designator: OldDesignator=R42 NewDesignator=R28
+Change Component Designator: OldDesignator=R44 NewDesignator=R29
+Change Component Designator: OldDesignator=R45 NewDesignator=R30
+Change Component Designator: OldDesignator=R46 NewDesignator=R31
+Change Component Designator: OldDesignator=R47 NewDesignator=R32
+Change Component Designator: OldDesignator=R48 NewDesignator=R33
+Change Component Designator: OldDesignator=R49 NewDesignator=R34
+Change Component Designator: OldDesignator=R50 NewDesignator=R35
+Change Component Designator: OldDesignator=R51 NewDesignator=R36
+Change Component Designator: OldDesignator=R52 NewDesignator=R37
+Change Component Designator: OldDesignator=R53 NewDesignator=R38
+Change Component Designator: OldDesignator=R54 NewDesignator=R39
+Change Component Designator: OldDesignator=R55 NewDesignator=R40
+Change Component Designator: OldDesignator=R56 NewDesignator=R41
+Change Component Designator: OldDesignator=R57 NewDesignator=R42
+Change Component Designator: OldDesignator=R58 NewDesignator=R43
+Change Component Designator: OldDesignator=R59 NewDesignator=R44
+Change Component Designator: OldDesignator=R60 NewDesignator=R45
+Change Component Designator: OldDesignator=R61 NewDesignator=R46
+Change Component Designator: OldDesignator=R62 NewDesignator=R47
+Change Component Designator: OldDesignator=R63 NewDesignator=R48
+Change Component Designator: OldDesignator=R64 NewDesignator=R49
+Change Component Designator: OldDesignator=R65 NewDesignator=R50
+Change Component Designator: OldDesignator=R66 NewDesignator=R51
+Change Component Designator: OldDesignator=R67 NewDesignator=R52
+Change Component Designator: OldDesignator=R68 NewDesignator=R53
+Change Component Designator: OldDesignator=R69 NewDesignator=R54
+Change Component Designator: OldDesignator=R70 NewDesignator=R55
+Change Component Designator: OldDesignator=R71 NewDesignator=R56
+Change Component Designator: OldDesignator=R72 NewDesignator=R57
+Change Component Designator: OldDesignator=R73 NewDesignator=R58
+Change Component Designator: OldDesignator=R74 NewDesignator=R59
+Change Component Designator: OldDesignator=R75 NewDesignator=R60
+Change Component Designator: OldDesignator=R76 NewDesignator=R61
+Change Component Designator: OldDesignator=R77 NewDesignator=R62
+Change Component Designator: OldDesignator=R78 NewDesignator=R63
+Change Component Designator: OldDesignator=R79 NewDesignator=R64
+Change Component Designator: OldDesignator=R80 NewDesignator=R65
+Change Component Designator: OldDesignator=R81 NewDesignator=R66
+Change Component Designator: OldDesignator=R82 NewDesignator=R67
+Change Component Designator: OldDesignator=R83 NewDesignator=R68
+Change Component Designator: OldDesignator=R84 NewDesignator=R69
+Change Component Designator: OldDesignator=R85 NewDesignator=R70
+Change Component Designator: OldDesignator=R86 NewDesignator=R71
+Change Component Designator: OldDesignator=R87 NewDesignator=R72
+Change Component Designator: OldDesignator=R88 NewDesignator=R73
+Change Component Designator: OldDesignator=R89 NewDesignator=R74
+Change Component Designator: OldDesignator=R90 NewDesignator=R75
+Change Component Designator: OldDesignator=VD1_1 NewDesignator=VD45_1
+Change Component Designator: OldDesignator=VD1_2 NewDesignator=VD45_2
+Change Component Designator: OldDesignator=VD1_3 NewDesignator=VD45_3
+Change Component Designator: OldDesignator=VD2 NewDesignator=VD1
+Change Component Designator: OldDesignator=VD3 NewDesignator=VD2
+Change Component Designator: OldDesignator=VD4_1 NewDesignator=VD46_1
+Change Component Designator: OldDesignator=VD4_2 NewDesignator=VD46_2
+Change Component Designator: OldDesignator=VD4_3 NewDesignator=VD46_3
+Change Component Designator: OldDesignator=VD5 NewDesignator=VD3
+Change Component Designator: OldDesignator=VD6 NewDesignator=VD4
+Change Component Designator: OldDesignator=VD8 NewDesignator=VD5
+Change Component Designator: OldDesignator=VD9 NewDesignator=VD6
+Change Component Designator: OldDesignator=VD11 NewDesignator=VD7
+Change Component Designator: OldDesignator=VD12 NewDesignator=VD8
+Change Component Designator: OldDesignator=VD14 NewDesignator=VD9
+Change Component Designator: OldDesignator=VD15 NewDesignator=VD10
+Change Component Designator: OldDesignator=VD17 NewDesignator=VD11
+Change Component Designator: OldDesignator=VD18 NewDesignator=VD12
+Change Component Designator: OldDesignator=VD20 NewDesignator=VD13
+Change Component Designator: OldDesignator=VD21 NewDesignator=VD14
+Change Component Designator: OldDesignator=VD23 NewDesignator=VD15
+Change Component Designator: OldDesignator=VD24 NewDesignator=VD16
+Change Component Designator: OldDesignator=VD26 NewDesignator=VD17
+Change Component Designator: OldDesignator=VD27 NewDesignator=VD18
+Change Component Designator: OldDesignator=VD29 NewDesignator=VD19
+Change Component Designator: OldDesignator=VD30 NewDesignator=VD20
+Change Component Designator: OldDesignator=VD31 NewDesignator=VD21
+Change Component Designator: OldDesignator=VD32 NewDesignator=VD22
+Change Component Designator: OldDesignator=VD33 NewDesignator=VD23
+Change Component Designator: OldDesignator=VD34 NewDesignator=VD24
+Change Component Designator: OldDesignator=VD35 NewDesignator=VD25
+Change Component Designator: OldDesignator=VD36 NewDesignator=VD26
+Change Component Designator: OldDesignator=VD37 NewDesignator=VD27
+Change Component Designator: OldDesignator=VD38 NewDesignator=VD28
+Change Component Designator: OldDesignator=VD39 NewDesignator=VD29
+Change Component Designator: OldDesignator=VD40 NewDesignator=VD30
+Change Component Designator: OldDesignator=VD41 NewDesignator=VD31
+Change Component Designator: OldDesignator=VD42 NewDesignator=VD32
+Change Component Designator: OldDesignator=VD43 NewDesignator=VD33
+Change Component Designator: OldDesignator=VD44 NewDesignator=VD34
+Change Component Designator: OldDesignator=VD45 NewDesignator=VD35
+Change Component Designator: OldDesignator=VD46 NewDesignator=VD36
+Change Component Designator: OldDesignator=VD47 NewDesignator=VD37
+Change Component Designator: OldDesignator=VD48 NewDesignator=VD38
+Change Component Designator: OldDesignator=VD49 NewDesignator=VD39
+Change Component Designator: OldDesignator=VD50 NewDesignator=VD40
+Change Component Designator: OldDesignator=VD51 NewDesignator=VD41
+Change Component Designator: OldDesignator=VD52 NewDesignator=VD42
+Change Component Designator: OldDesignator=VD53 NewDesignator=VD43
+Change Component Designator: OldDesignator=VD54 NewDesignator=VD44
+Change Component Designator: OldDesignator=VT1_1 NewDesignator=VT41_1
+Change Component Designator: OldDesignator=VT1_2 NewDesignator=VT41_2
+Change Component Designator: OldDesignator=VT1_3 NewDesignator=VT41_3
+Change Component Designator: OldDesignator=VT2 NewDesignator=VT1
+Change Component Designator: OldDesignator=VT3 NewDesignator=VT2
+Change Component Designator: OldDesignator=VT4_1 NewDesignator=VT42_1
+Change Component Designator: OldDesignator=VT4_2 NewDesignator=VT42_2
+Change Component Designator: OldDesignator=VT4_3 NewDesignator=VT42_3
+Change Component Designator: OldDesignator=VT5 NewDesignator=VT3
+Change Component Designator: OldDesignator=VT6 NewDesignator=VT4
+Change Component Designator: OldDesignator=VT8 NewDesignator=VT5
+Change Component Designator: OldDesignator=VT9 NewDesignator=VT6
+Change Component Designator: OldDesignator=VT10 NewDesignator=VT7
+Change Component Designator: OldDesignator=VT12 NewDesignator=VT8
+Change Component Designator: OldDesignator=VT14 NewDesignator=VT9
+Change Component Designator: OldDesignator=VT15 NewDesignator=VT10
+Change Component Designator: OldDesignator=VT17 NewDesignator=VT11
+Change Component Designator: OldDesignator=VT18 NewDesignator=VT12
+Change Component Designator: OldDesignator=VT20 NewDesignator=VT13
+Change Component Designator: OldDesignator=VT21 NewDesignator=VT14
+Change Component Designator: OldDesignator=VT22 NewDesignator=VT15
+Change Component Designator: OldDesignator=VT24 NewDesignator=VT16
+Change Component Designator: OldDesignator=VT26 NewDesignator=VT17
+Change Component Designator: OldDesignator=VT27 NewDesignator=VT18
+Change Component Designator: OldDesignator=VT28 NewDesignator=VT19
+Change Component Designator: OldDesignator=VT30 NewDesignator=VT20
+Change Component Designator: OldDesignator=VT31 NewDesignator=VT21
+Change Component Designator: OldDesignator=VT32 NewDesignator=VT22
+Change Component Designator: OldDesignator=VT33 NewDesignator=VT23
+Change Component Designator: OldDesignator=VT34 NewDesignator=VT24
+Change Component Designator: OldDesignator=VT35 NewDesignator=VT25
+Change Component Designator: OldDesignator=VT36 NewDesignator=VT26
+Change Component Designator: OldDesignator=VT37 NewDesignator=VT27
+Change Component Designator: OldDesignator=VT38 NewDesignator=VT28
+Change Component Designator: OldDesignator=VT39 NewDesignator=VT29
+Change Component Designator: OldDesignator=VT40 NewDesignator=VT30
+Change Component Designator: OldDesignator=VT41 NewDesignator=VT31
+Change Component Designator: OldDesignator=VT42 NewDesignator=VT32
+Change Component Designator: OldDesignator=VT43 NewDesignator=VT33
+Change Component Designator: OldDesignator=VT44 NewDesignator=VT34
+Change Component Designator: OldDesignator=VT45 NewDesignator=VT35
+Change Component Designator: OldDesignator=VT46 NewDesignator=VT36
+Change Component Designator: OldDesignator=VT47 NewDesignator=VT37
+Change Component Designator: OldDesignator=VT48 NewDesignator=VT38
+Change Component Designator: OldDesignator=VT49 NewDesignator=VT39
+Change Component Designator: OldDesignator=VT50 NewDesignator=VT40
+Added Component: Designator=R76_4(RES: 1206)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC1206JR-07100RL/311-100ERCT-ND/732153"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC1206JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 1K, ±5%, 1206, 0.25W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R76_5(RES: 1206)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC1206JR-07100RL/311-100ERCT-ND/732153"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC1206JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 1K, ±5%, 1206, 0.25W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R77_4(RES: 1206)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC1206JR-07100RL/311-100ERCT-ND/732153"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC1206JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 10K, ±5%, 1206, 0.25W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R77_5(RES: 1206)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC1206JR-07100RL/311-100ERCT-ND/732153"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC1206JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 10K, ±5%, 1206, 0.25W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R78_4(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 1K, ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R78_5(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 1K, ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=VD45_4(DIODE: SMA)
+Add component (AddParameter): Name = "Current"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/micro-commercial-co/1N4148WX-TP/1N4148WXTPMSCT-ND/717312"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SMAJ24A-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecoveryTime"; Value = "4ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Single diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = "1V"; VariantName = "[No Variations]"
+Added Component: Designator=VD45_5(DIODE: SMA)
+Add component (AddParameter): Name = "Current"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/micro-commercial-co/1N4148WX-TP/1N4148WXTPMSCT-ND/717312"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SMAJ24A-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecoveryTime"; Value = "4ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Single diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = "1V"; VariantName = "[No Variations]"
+Added Component: Designator=VD46_4(DIODE: SMA)
+Add component (AddParameter): Name = "Current"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/micro-commercial-co/1N4148WX-TP/1N4148WXTPMSCT-ND/717312"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SMAJ24A-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecoveryTime"; Value = "4ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Single diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = "1V"; VariantName = "[No Variations]"
+Added Component: Designator=VD46_5(DIODE: SMA)
+Add component (AddParameter): Name = "Current"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/micro-commercial-co/1N4148WX-TP/1N4148WXTPMSCT-ND/717312"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SMAJ24A-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecoveryTime"; Value = "4ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Single diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = "1V"; VariantName = "[No Variations]"
+Added Component: Designator=VT41_4(SOT23)
+Add component (AddParameter): Name = "CurrentCE"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentGain"; Value = "420"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/on-semiconductor/BC847CLT1G/BC847CLT1GOSCT-ND/917836"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxPower"; Value = "300mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = " “229¿9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeTransistor"; Value = "NPN transistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "NPN transistor, 45V, 100mA, 100MHz, 300mW, 0.6V, 420, SOT-23, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageCE"; Value = "45V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageSaturation"; Value = "0.6V"; VariantName = "[No Variations]"
+Added Component: Designator=VT41_5(SOT23)
+Add component (AddParameter): Name = "CurrentCE"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentGain"; Value = "420"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/on-semiconductor/BC847CLT1G/BC847CLT1GOSCT-ND/917836"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxPower"; Value = "300mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = " “229¿9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeTransistor"; Value = "NPN transistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "NPN transistor, 45V, 100mA, 100MHz, 300mW, 0.6V, 420, SOT-23, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageCE"; Value = "45V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageSaturation"; Value = "0.6V"; VariantName = "[No Variations]"
+Added Component: Designator=VT42_4(SOT23)
+Add component (AddParameter): Name = "CurrentCE"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentGain"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/on-semiconductor/BC857BLT3G/BC857BLT3GOSCT-ND/2704963"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxPower"; Value = "300mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = " “228¿9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeTransistor"; Value = "PNP transistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "PNP transistor, 45V, 100mA, 100MHz, 300mW, 0.65V, 220, SOT-23, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageCE"; Value = "45V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageSaturation"; Value = "0.65V"; VariantName = "[No Variations]"
+Added Component: Designator=VT42_5(SOT23)
+Add component (AddParameter): Name = "CurrentCE"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentGain"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/on-semiconductor/BC857BLT3G/BC857BLT3GOSCT-ND/2704963"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxPower"; Value = "300mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = " “228¿9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeTransistor"; Value = "PNP transistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "PNP transistor, 45V, 100mA, 100MHz, 300mW, 0.65V, 220, SOT-23, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageCE"; Value = "45V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageSaturation"; Value = "0.65V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR7_5_2 Pin=R76_4-1
+Added Pin To Net: NetName=NetR7_4_2 Pin=R76_4-2
+Added Pin To Net: NetName=NetR1_5_2 Pin=R76_5-1
+Added Pin To Net: NetName=NetR1_5_1 Pin=R76_5-2
+Added Pin To Net: NetName=24V_IN_3 Pin=R77_4-1
+Added Pin To Net: NetName=NetR7_5_2 Pin=R77_4-2
+Added Pin To Net: NetName=24V_IN_4 Pin=R77_5-1
+Added Pin To Net: NetName=NetR1_5_2 Pin=R77_5-2
+Added Pin To Net: NetName=SIG_3 Pin=R78_4-1
+Added Pin To Net: NetName=NetR1_4_2 Pin=R78_4-2
+Added Pin To Net: NetName=SIG_4 Pin=R78_5-1
+Added Pin To Net: NetName=NetR1_4_1 Pin=R78_5-2
+Added Pin To Net: NetName=GND Pin=VD45_4-1
+Added Pin To Net: NetName=24V_IN_3 Pin=VD45_4-2
+Added Pin To Net: NetName=GND Pin=VD45_5-1
+Added Pin To Net: NetName=24V_IN_4 Pin=VD45_5-2
+Added Pin To Net: NetName=GND Pin=VD46_4-1
+Added Pin To Net: NetName=24V_OUT_3 Pin=VD46_4-2
+Added Pin To Net: NetName=GND Pin=VD46_5-1
+Added Pin To Net: NetName=24V_OUT_4 Pin=VD46_5-2
+Added Pin To Net: NetName=NetR1_4_2 Pin=VT41_4-1
+Added Pin To Net: NetName=NetR7_4_2 Pin=VT41_4-2
+Added Pin To Net: NetName=GND Pin=VT41_4-3
+Added Pin To Net: NetName=NetR1_4_1 Pin=VT41_5-1
+Added Pin To Net: NetName=NetR1_5_1 Pin=VT41_5-2
+Added Pin To Net: NetName=GND Pin=VT41_5-3
+Added Pin To Net: NetName=NetR7_5_2 Pin=VT42_4-1
+Added Pin To Net: NetName=24V_IN_3 Pin=VT42_4-2
+Added Pin To Net: NetName=24V_OUT_3 Pin=VT42_4-3
+Added Pin To Net: NetName=NetR1_5_2 Pin=VT42_5-1
+Added Pin To Net: NetName=24V_IN_4 Pin=VT42_5-2
+Added Pin To Net: NetName=24V_OUT_4 Pin=VT42_5-3
+Change Net Name : Old Net Name=NetR1_1_1 New Net Name=NetR76_1_1
+Change Net Name : Old Net Name=NetR1_1_2 New Net Name=NetR76_1_2
+Change Net Name : Old Net Name=NetR1_2_1 New Net Name=NetR76_2_1
+Change Net Name : Old Net Name=NetR1_2_2 New Net Name=NetR76_2_2
+Change Net Name : Old Net Name=NetR1_3_1 New Net Name=NetR76_3_1
+Change Net Name : Old Net Name=NetR1_3_2 New Net Name=NetR76_3_2
+Change Net Name : Old Net Name=NetR1_4_1 New Net Name=NetR78_5_2
+Change Net Name : Old Net Name=NetR1_4_2 New Net Name=NetR78_4_2
+Change Net Name : Old Net Name=NetR1_5_1 New Net Name=NetR76_5_2
+Change Net Name : Old Net Name=NetR1_5_2 New Net Name=NetR76_5_1
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetR1_2
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetR3_2
+Change Net Name : Old Net Name=NetR7_1_2 New Net Name=NetR78_1_2
+Change Net Name : Old Net Name=NetR7_2_2 New Net Name=NetR78_2_2
+Change Net Name : Old Net Name=NetR7_3_2 New Net Name=NetR78_3_2
+Change Net Name : Old Net Name=NetR7_4_2 New Net Name=NetR76_4_2
+Change Net Name : Old Net Name=NetR7_5_2 New Net Name=NetR76_4_1
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR5_2
+Change Net Name : Old Net Name=NetR9_2 New Net Name=NetR6_2
+Change Net Name : Old Net Name=NetR12_1 New Net Name=NetR7_1
+Change Net Name : Old Net Name=NetR12_2 New Net Name=NetR7_2
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR14_2 New Net Name=NetR9_2
+Change Net Name : Old Net Name=NetR17_2 New Net Name=NetR11_2
+Change Net Name : Old Net Name=NetR18_2 New Net Name=NetR12_2
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetR13_1
+Change Net Name : Old Net Name=NetR21_2 New Net Name=NetR13_2
+Change Net Name : Old Net Name=NetR23_1 New Net Name=NetR15_1
+Change Net Name : Old Net Name=NetR23_2 New Net Name=NetR15_2
+Change Net Name : Old Net Name=NetR26_2 New Net Name=NetR17_2
+Change Net Name : Old Net Name=NetR27_2 New Net Name=NetR18_2
+Change Net Name : Old Net Name=NetR30_1 New Net Name=NetR19_1
+Change Net Name : Old Net Name=NetR30_2 New Net Name=NetR19_2
+Change Net Name : Old Net Name=NetR32_1 New Net Name=NetR21_1
+Change Net Name : Old Net Name=NetR32_2 New Net Name=NetR21_2
+Change Net Name : Old Net Name=NetR35_2 New Net Name=NetR23_2
+Change Net Name : Old Net Name=NetR36_2 New Net Name=NetR24_2
+Change Net Name : Old Net Name=NetR39_1 New Net Name=NetR25_1
+Change Net Name : Old Net Name=NetR39_2 New Net Name=NetR25_2
+Change Net Name : Old Net Name=NetR41_1 New Net Name=NetR27_1
+Change Net Name : Old Net Name=NetR41_2 New Net Name=NetR27_2
+Change Net Name : Old Net Name=NetR44_2 New Net Name=NetR29_2
+Change Net Name : Old Net Name=NetR45_2 New Net Name=NetR30_2
+Change Net Name : Old Net Name=NetR48_1 New Net Name=NetR33_1
+Change Net Name : Old Net Name=NetR48_2 New Net Name=NetR33_2
+Change Net Name : Old Net Name=NetR50_1 New Net Name=NetR35_1
+Change Net Name : Old Net Name=NetR50_2 New Net Name=NetR35_2
+Change Net Name : Old Net Name=NetR52_2 New Net Name=NetR37_2
+Change Net Name : Old Net Name=NetR53_2 New Net Name=NetR38_2
+Change Net Name : Old Net Name=NetR54_2 New Net Name=NetR39_2
+Change Net Name : Old Net Name=NetR55_1 New Net Name=NetR40_1
+Change Net Name : Old Net Name=NetR55_2 New Net Name=NetR40_2
+Change Net Name : Old Net Name=NetR57_1 New Net Name=NetR42_1
+Change Net Name : Old Net Name=NetR57_2 New Net Name=NetR42_2
+Change Net Name : Old Net Name=NetR59_2 New Net Name=NetR44_2
+Change Net Name : Old Net Name=NetR60_2 New Net Name=NetR45_2
+Change Net Name : Old Net Name=NetR61_1 New Net Name=NetR46_1
+Change Net Name : Old Net Name=NetR61_2 New Net Name=NetR46_2
+Change Net Name : Old Net Name=NetR63_1 New Net Name=NetR48_1
+Change Net Name : Old Net Name=NetR63_2 New Net Name=NetR48_2
+Change Net Name : Old Net Name=NetR65_2 New Net Name=NetR50_2
+Change Net Name : Old Net Name=NetR66_2 New Net Name=NetR51_2
+Change Net Name : Old Net Name=NetR67_1 New Net Name=NetR52_1
+Change Net Name : Old Net Name=NetR67_2 New Net Name=NetR52_2
+Change Net Name : Old Net Name=NetR69_1 New Net Name=NetR54_1
+Change Net Name : Old Net Name=NetR69_2 New Net Name=NetR54_2
+Change Net Name : Old Net Name=NetR71_2 New Net Name=NetR56_2
+Change Net Name : Old Net Name=NetR72_2 New Net Name=NetR57_2
+Change Net Name : Old Net Name=NetR73_1 New Net Name=NetR58_1
+Change Net Name : Old Net Name=NetR73_2 New Net Name=NetR58_2
+Change Net Name : Old Net Name=NetR75_1 New Net Name=NetR60_1
+Change Net Name : Old Net Name=NetR75_2 New Net Name=NetR60_2
+Change Net Name : Old Net Name=NetR77_2 New Net Name=NetR62_2
+Change Net Name : Old Net Name=NetR78_2 New Net Name=NetR63_2
+Added Member To Class: ClassName=U_Channel 4 Member=Component R76_4 (R76) Resistor film, 1K, ±5%, 1206, 0.25W, -55...+125∞C
+Added Member To Class: ClassName=U_Channel 5 Member=Component R76_5 (R76) Resistor film, 1K, ±5%, 1206, 0.25W, -55...+125∞C
+Added Member To Class: ClassName=U_Channel 4 Member=Component R77_4 (R77) Resistor film, 10K, ±5%, 1206, 0.25W, -55...+125∞C
+Added Member To Class: ClassName=U_Channel 5 Member=Component R77_5 (R77) Resistor film, 10K, ±5%, 1206, 0.25W, -55...+125∞C
+Added Member To Class: ClassName=U_Channel 4 Member=Component R78_4 (R78) Resistor film, 1K, ±5%, 0805, 0.125W, -55...+125∞C
+Added Member To Class: ClassName=U_Channel 5 Member=Component R78_5 (R78) Resistor film, 1K, ±5%, 0805, 0.125W, -55...+125∞C
+Added Member To Class: ClassName=U_Channel 4 Member=Component VD45_4 (VD45) Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150∞C
+Added Member To Class: ClassName=U_Channel 5 Member=Component VD45_5 (VD45) Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150∞C
+Added Member To Class: ClassName=U_Channel 4 Member=Component VD46_4 (VD46) Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150∞C
+Added Member To Class: ClassName=U_Channel 5 Member=Component VD46_5 (VD46) Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150∞C
+Added Member To Class: ClassName=U_Channel 4 Member=Component VT41_4 (VT41) NPN transistor, 45V, 100mA, 100MHz, 300mW, 0.6V, 420, SOT-23, -55...+125∞C
+Added Member To Class: ClassName=U_Channel 5 Member=Component VT41_5 (VT41) NPN transistor, 45V, 100mA, 100MHz, 300mW, 0.6V, 420, SOT-23, -55...+125∞C
+Added Member To Class: ClassName=U_Channel 4 Member=Component VT42_4 (VT42) PNP transistor, 45V, 100mA, 100MHz, 300mW, 0.65V, 220, SOT-23, -55...+125∞C
+Added Member To Class: ClassName=U_Channel 5 Member=Component VT42_5 (VT42) PNP transistor, 45V, 100mA, 100MHz, 300mW, 0.65V, 220, SOT-23, -55...+125∞C

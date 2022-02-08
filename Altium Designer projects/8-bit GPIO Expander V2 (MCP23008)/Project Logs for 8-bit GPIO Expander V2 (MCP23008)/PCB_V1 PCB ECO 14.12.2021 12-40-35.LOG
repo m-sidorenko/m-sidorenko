@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=Vin Pin=XP2-1
+Added Component: Designator=R18(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 100K, ±5%, 0805, 0.125W, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=VD8(DIODE: SMA)
+Add component (AddParameter): Name = "Current"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/micro-commercial-co/1N4148WX-TP/1N4148WXTPMSCT-ND/717312"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "M1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecoveryTime"; Value = "4ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Single diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = "1V"; VariantName = "[No Variations]"
+Added Component: Designator=VT1(6-TSOP)
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=Vin Pin=VD8-2
+Added Pin To Net: NetName=Vin Pin=VT1-4
+Change Net Name : Old Net Name=Vin New Net Name=NetC1_1
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=NetR18_2 Pin=VD8-1
+Added Pin To Net: NetName=NetR18_2 Pin=VT1-3
+Added Net: Name=NetR18_2
+Added Pin To Net: NetName=Vin Pin=VT1-1
+Added Pin To Net: NetName=Vin Pin=VT1-2
+Added Pin To Net: NetName=Vin Pin=VT1-5
+Added Pin To Net: NetName=Vin Pin=VT1-6
+Added Pin To Net: NetName=Vin Pin=XP2-1
+Added Net: Name=Vin
+Added Member To Class: ClassName=Scheme Member=Component R18 Resistor film, 100K, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=Scheme Member=Component VD8 Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150°C
+Added Member To Class: ClassName=Scheme Member=Component VT1 IRFTS9342TRPBF

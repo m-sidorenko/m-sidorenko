@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=VD4 Old Footprint=DIODE: SMA New Footprint=DIODE: SOD323
+Change Component Footprint: Designator=VD5 Old Footprint=DIODE: SMA New Footprint=DIODE: SOD323
+Added Pin To Net: NetName=GND Pin=DA2-4

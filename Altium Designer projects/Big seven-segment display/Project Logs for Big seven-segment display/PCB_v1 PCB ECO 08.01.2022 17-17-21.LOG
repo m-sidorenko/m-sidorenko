@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=LED2 NewDesignator=DD1
+Added Pin To Net: NetName=D_SEGMENT Pin=DD1-6

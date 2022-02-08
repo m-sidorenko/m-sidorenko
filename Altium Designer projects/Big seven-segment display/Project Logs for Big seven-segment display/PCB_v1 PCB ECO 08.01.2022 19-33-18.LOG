@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CLK_IN Pin=XT1-3
+Removed Pin From Net: NetName=DATA_IN Pin=XT1-4
+Removed Pin From Net: NetName=DATA_OUT Pin=XT2-2
+Removed Pin From Net: NetName=CLK_OUT Pin=XT2-3
+Added Pin To Net: NetName=DATA_IN Pin=XT1-3
+Added Pin To Net: NetName=CLK_IN Pin=XT1-4
+Added Pin To Net: NetName=CLK_OUT Pin=XT2-2
+Added Pin To Net: NetName=DATA_OUT Pin=XT2-3

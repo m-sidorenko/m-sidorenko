@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [8-bit GPIO Expander V2 (MCP23008).PrjPcb]
+   Generated File[PCB_V1.TXT]
+   Generated File[PCB_V1.LDP]
+   Generated File[PCB_V1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:31:40 On 11.01.2022

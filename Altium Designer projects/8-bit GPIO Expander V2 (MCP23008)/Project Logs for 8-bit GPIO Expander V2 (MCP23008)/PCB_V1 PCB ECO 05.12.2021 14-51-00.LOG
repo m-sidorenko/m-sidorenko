@@ -1,0 +1,796 @@
+Added Component: Designator=C1(CAP: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0805KRX7R7BB104/311-1142-1-ND/303052"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0805KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1ÏÍ‘"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1ÏÍ‘, X7R, ±10%, 35V, 0805, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0805KRX7R7BB104/311-1142-1-ND/303052"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0805KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1ÏÍ‘"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1ÏÍ‘, X7R, ±10%, 16V, 0805, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP: D10C5H16)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/860080475013/732-9029-1-ND/5728972"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "54mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "14x10x5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "860080475013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+105∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Aluminium capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1000ÏÍ‘"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Aluminium capacitor, 1000ÏÍ‘, 16V, ±20%, 54mOhm, 14x10x5 mm, -55...+105∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0805KRX7R7BB104/311-1142-1-ND/303052"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0805KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10Ì‘"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 10Ì‘, X7R, ±10%, 50V, 0805, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0805KRX7R7BB104/311-1142-1-ND/303052"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0805KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18Ì‘"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 18Ì‘, X7R, ±10%, 50V, 0805, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0805KRX7R7BB104/311-1142-1-ND/303052"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0805KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1ÏÍ‘"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 1ÏÍ‘, X7R, ±10%, 35V, 0805, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0805KRX7R7BB104/311-1142-1-ND/303052"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0805KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10ÏÍ‘"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 10ÏÍ‘, X7R, ±10%, 10V, 0805, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0805KRX7R7BB104/311-1142-1-ND/303052"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0805KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10ÏÍ‘"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 10ÏÍ‘, X7R, ±10%, 16V, 0805, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0805KRX7R7BB104/311-1142-1-ND/303052"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0805KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1ÏÍ‘"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1ÏÍ‘, X7R, ±10%, 16V, 0805, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=DA1(to-263-5l)
+Added Component: Designator=DA2(8-VSSOP)
+Added Component: Designator=DD1(18-SOIC)
+Added Component: Designator=J1(CON: JUMPER x1)
+Add component (AddParameter): Name = "CommentText"; Value = "Jmpr 5V"; VariantName = "[No Variations]"
+Added Component: Designator=J2(CON: JUMPER x1)
+Add component (AddParameter): Name = "CommentText"; Value = "Jmpr 3.3V"; VariantName = "[No Variations]"
+Added Component: Designator=J3(CON: JUMPER x1)
+Add component (AddParameter): Name = "CommentText"; Value = "Jmpr 5V"; VariantName = "[No Variations]"
+Added Component: Designator=J4(CON: JUMPER x1)
+Add component (AddParameter): Name = "CommentText"; Value = "Jmpr 3.3V"; VariantName = "[No Variations]"
+Added Component: Designator=J5(CON: JUMPER x1)
+Add component (AddParameter): Name = "CommentText"; Value = "Jmpr"; VariantName = "[No Variations]"
+Added Component: Designator=J6(CON: JUMPER x1)
+Add component (AddParameter): Name = "CommentText"; Value = "Jmpr"; VariantName = "[No Variations]"
+Added Component: Designator=J7(CON: JUMPER x1)
+Add component (AddParameter): Name = "CommentText"; Value = "Jmpr"; VariantName = "[No Variations]"
+Added Component: Designator=L1(SRR1208-330YL)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/LQM21FN100M70L/490-4029-1-ND/1016289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCurrent"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LQM21FN100M70L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeInductor"; Value = "Fixed inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33ÏÍ√Ì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Fixed inductor, 33ÏÍ√Ì, ±20%, 0805, 100mA, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=L2(CDRH125NP-181MC)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/LQM21FN100M70L/490-4029-1-ND/1016289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCurrent"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LQM21FN100M70L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeInductor"; Value = "Fixed inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "180ÏÍ√Ì, 0.9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Fixed inductor, 180ÏÍ√Ì, 0.9A, ±20%, 0805, 100mA, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(1224HRC5)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.digchip.com/datasheets/parts/datasheet/158/1224HRC-5-pdf.php"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Everlight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1224HRC-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1_0(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 1 , ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R1_1(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 1 , ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R1_2(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 1 , ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R1_3(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 1 , ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R1_4(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 1 , ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R1_5(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 1 , ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R1_6(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 1 , ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R1_7(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 1 , ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3K74"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 3K74, ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 2K2, ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 1K21, ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "249K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 249K, ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES: 1206)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC1206JR-07100RL/311-100ERCT-ND/732153"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC1206JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330ÏŒÏ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 330ÏŒÏ, ±5%, 1206, 0.25W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 1K, ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "560"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 560, ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "133K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 133K, ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 1K, ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3K12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 3K12, ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 1 , ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 1 , ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4 7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 4 7, ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4 7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 4 7, ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4 7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 4 7, ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4 7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 4 7, ±5%, 0805, 0.125W, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=VD1_0(DIODE: SOD323)
+Add component (AddParameter): Name = "Current"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/MBR0580S1-7/MBR0580S1-7DICT-ND/5080371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PESD5V0L1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecoveryTime"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Schottky diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Schottky diode, 80V, 500mA, 1V, 15pF, SOD-123, -55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = "1V"; VariantName = "[No Variations]"
+Added Component: Designator=VD1_1(DIODE: SOD323)
+Add component (AddParameter): Name = "Current"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/MBR0580S1-7/MBR0580S1-7DICT-ND/5080371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PESD5V0L1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecoveryTime"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Schottky diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Schottky diode, 80V, 500mA, 1V, 15pF, SOD-123, -55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = "1V"; VariantName = "[No Variations]"
+Added Component: Designator=VD1_2(DIODE: SOD323)
+Add component (AddParameter): Name = "Current"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/MBR0580S1-7/MBR0580S1-7DICT-ND/5080371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PESD5V0L1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecoveryTime"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Schottky diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Schottky diode, 80V, 500mA, 1V, 15pF, SOD-123, -55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = "1V"; VariantName = "[No Variations]"
+Added Component: Designator=VD1_3(DIODE: SOD323)
+Add component (AddParameter): Name = "Current"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/MBR0580S1-7/MBR0580S1-7DICT-ND/5080371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PESD5V0L1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecoveryTime"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Schottky diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Schottky diode, 80V, 500mA, 1V, 15pF, SOD-123, -55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = "1V"; VariantName = "[No Variations]"
+Added Component: Designator=VD1_4(DIODE: SOD323)
+Add component (AddParameter): Name = "Current"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/MBR0580S1-7/MBR0580S1-7DICT-ND/5080371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PESD5V0L1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecoveryTime"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Schottky diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Schottky diode, 80V, 500mA, 1V, 15pF, SOD-123, -55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = "1V"; VariantName = "[No Variations]"
+Added Component: Designator=VD1_5(DIODE: SOD323)
+Add component (AddParameter): Name = "Current"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/MBR0580S1-7/MBR0580S1-7DICT-ND/5080371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PESD5V0L1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecoveryTime"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Schottky diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Schottky diode, 80V, 500mA, 1V, 15pF, SOD-123, -55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = "1V"; VariantName = "[No Variations]"
+Added Component: Designator=VD1_6(DIODE: SOD323)
+Add component (AddParameter): Name = "Current"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/MBR0580S1-7/MBR0580S1-7DICT-ND/5080371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PESD5V0L1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecoveryTime"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Schottky diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Schottky diode, 80V, 500mA, 1V, 15pF, SOD-123, -55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = "1V"; VariantName = "[No Variations]"
+Added Component: Designator=VD1_7(DIODE: SOD323)
+Add component (AddParameter): Name = "Current"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/MBR0580S1-7/MBR0580S1-7DICT-ND/5080371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PESD5V0L1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecoveryTime"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Schottky diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Schottky diode, 80V, 500mA, 1V, 15pF, SOD-123, -55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = "1V"; VariantName = "[No Variations]"
+Added Component: Designator=VD2(DIODE: SMC)
+Add component (AddParameter): Name = "Current"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/MBR0580S1-7/MBR0580S1-7DICT-ND/5080371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SS34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecoveryTime"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Schottky diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Schottky diode, 80V, 500mA, 1V, 15pF, SOD-123, -55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = "1V"; VariantName = "[No Variations]"
+Added Component: Designator=VD3(DIODE: SMC)
+Add component (AddParameter): Name = "Current"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/MBR0580S1-7/MBR0580S1-7DICT-ND/5080371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SS14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecoveryTime"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Schottky diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Schottky diode, 80V, 500mA, 1V, 15pF, SOD-123, -55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = "1V"; VariantName = "[No Variations]"
+Added Component: Designator=VD4(DIODE: SMA)
+Add component (AddParameter): Name = "Current"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/MBR0580S1-7/MBR0580S1-7DICT-ND/5080371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PESD5V0L1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecoveryTime"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Schottky diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Schottky diode, 80V, 500mA, 1V, 15pF, SOD-123, -55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = "1V"; VariantName = "[No Variations]"
+Added Component: Designator=VD5(DIODE: SMA)
+Add component (AddParameter): Name = "Current"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/MBR0580S1-7/MBR0580S1-7DICT-ND/5080371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PESD5V0L1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecoveryTime"; Value = "15pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Schottky diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Schottky diode, 80V, 500mA, 1V, 15pF, SOD-123, -55...+150∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "80V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = "1V"; VariantName = "[No Variations]"
+Added Component: Designator=XP1(15EDGRC-3.5-12P-14-00A(H))
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP2(15EDGRC-3.5-12P-14-00A(H))
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A0 Pin=DD1-5
+Added Pin To Net: NetName=A0 Pin=J5-1
+Added Pin To Net: NetName=A0 Pin=R15-2
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=DD1-4
+Added Pin To Net: NetName=A1 Pin=J6-1
+Added Pin To Net: NetName=A1 Pin=R16-2
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=DD1-3
+Added Pin To Net: NetName=A2 Pin=J7-1
+Added Pin To Net: NetName=A2 Pin=R17-2
+Added Net: Name=A2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=DA1-3
+Added Pin To Net: NetName=GND Pin=DA1-3
+Added Pin To Net: NetName=GND Pin=DA1-5
+Added Pin To Net: NetName=GND Pin=DA2-4
+Added Pin To Net: NetName=GND Pin=DD1-9
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=GND Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=VD1_0-1
+Added Pin To Net: NetName=GND Pin=VD1_1-1
+Added Pin To Net: NetName=GND Pin=VD1_2-1
+Added Pin To Net: NetName=GND Pin=VD1_3-1
+Added Pin To Net: NetName=GND Pin=VD1_4-1
+Added Pin To Net: NetName=GND Pin=VD1_5-1
+Added Pin To Net: NetName=GND Pin=VD1_6-1
+Added Pin To Net: NetName=GND Pin=VD1_7-1
+Added Pin To Net: NetName=GND Pin=VD2-1
+Added Pin To Net: NetName=GND Pin=VD3-1
+Added Pin To Net: NetName=GND Pin=VD4-1
+Added Pin To Net: NetName=GND Pin=VD5-1
+Added Pin To Net: NetName=GND Pin=XP1-2
+Added Pin To Net: NetName=GND Pin=XP1-9
+Added Pin To Net: NetName=GND Pin=XP1-12
+Added Pin To Net: NetName=GND Pin=XP2-9
+Added Pin To Net: NetName=GND Pin=XP2-10
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=DA2-1
+Added Pin To Net: NetName=NetC5_1 Pin=L2-2
+Added Pin To Net: NetName=NetC5_1 Pin=L2-2
+Added Pin To Net: NetName=NetC5_1 Pin=VD3-2
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=DA2-2
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=DA2-5
+Added Pin To Net: NetName=NetC6_2 Pin=J3-1
+Added Pin To Net: NetName=NetC6_2 Pin=J4-1
+Added Pin To Net: NetName=NetC6_2 Pin=R7-1
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=DA2-4
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=R6-1
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetDA1_2 Pin=DA1-2
+Added Pin To Net: NetName=NetDA1_2 Pin=L1-2
+Added Pin To Net: NetName=NetDA1_2 Pin=VD2-2
+Added Net: Name=NetDA1_2
+Added Pin To Net: NetName=NetDA1_4 Pin=DA1-4
+Added Pin To Net: NetName=NetDA1_4 Pin=J1-1
+Added Pin To Net: NetName=NetDA1_4 Pin=J2-1
+Added Pin To Net: NetName=NetDA1_4 Pin=R2-1
+Added Net: Name=NetDA1_4
+Added Pin To Net: NetName=NetDA2_3 Pin=DA2-3
+Added Pin To Net: NetName=NetDA2_3 Pin=R9-1
+Added Net: Name=NetDA2_3
+Added Pin To Net: NetName=NetDA2_6 Pin=DA2-6
+Added Pin To Net: NetName=NetDA2_6 Pin=R5-1
+Added Net: Name=NetDA2_6
+Added Pin To Net: NetName=NetDD1_8 Pin=DD1-8
+Added Pin To Net: NetName=NetDD1_8 Pin=R14-2
+Added Net: Name=NetDD1_8
+Added Pin To Net: NetName=NetDD1_10 Pin=DD1-10
+Added Pin To Net: NetName=NetDD1_10 Pin=R1_0-1
+Added Pin To Net: NetName=NetDD1_10 Pin=VD1_0-2
+Added Pin To Net: NetName=NetDD1_10 Pin=XP2-1
+Added Net: Name=NetDD1_10
+Added Pin To Net: NetName=NetDD1_11 Pin=DD1-11
+Added Pin To Net: NetName=NetDD1_11 Pin=R1_1-1
+Added Pin To Net: NetName=NetDD1_11 Pin=VD1_1-2
+Added Pin To Net: NetName=NetDD1_11 Pin=XP2-2
+Added Net: Name=NetDD1_11
+Added Pin To Net: NetName=NetDD1_12 Pin=DD1-12
+Added Pin To Net: NetName=NetDD1_12 Pin=R1_2-1
+Added Pin To Net: NetName=NetDD1_12 Pin=VD1_2-2
+Added Pin To Net: NetName=NetDD1_12 Pin=XP2-3
+Added Net: Name=NetDD1_12
+Added Pin To Net: NetName=NetDD1_13 Pin=DD1-13
+Added Pin To Net: NetName=NetDD1_13 Pin=R1_3-1
+Added Pin To Net: NetName=NetDD1_13 Pin=VD1_3-2
+Added Pin To Net: NetName=NetDD1_13 Pin=XP2-4
+Added Net: Name=NetDD1_13
+Added Pin To Net: NetName=NetDD1_14 Pin=DD1-14
+Added Pin To Net: NetName=NetDD1_14 Pin=R1_4-1
+Added Pin To Net: NetName=NetDD1_14 Pin=VD1_4-2
+Added Pin To Net: NetName=NetDD1_14 Pin=XP2-5
+Added Net: Name=NetDD1_14
+Added Pin To Net: NetName=NetDD1_15 Pin=DD1-15
+Added Pin To Net: NetName=NetDD1_15 Pin=R1_5-1
+Added Pin To Net: NetName=NetDD1_15 Pin=VD1_5-2
+Added Pin To Net: NetName=NetDD1_15 Pin=XP2-6
+Added Net: Name=NetDD1_15
+Added Pin To Net: NetName=NetDD1_16 Pin=DD1-16
+Added Pin To Net: NetName=NetDD1_16 Pin=R1_6-1
+Added Pin To Net: NetName=NetDD1_16 Pin=VD1_6-2
+Added Pin To Net: NetName=NetDD1_16 Pin=XP2-7
+Added Net: Name=NetDD1_16
+Added Pin To Net: NetName=NetDD1_17 Pin=DD1-17
+Added Pin To Net: NetName=NetDD1_17 Pin=R1_7-1
+Added Pin To Net: NetName=NetDD1_17 Pin=VD1_7-2
+Added Pin To Net: NetName=NetDD1_17 Pin=XP2-8
+Added Net: Name=NetDD1_17
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=R4-2
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=R3-1
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=R10-2
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=R11-2
+Added Net: Name=NetJ4_2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R8-2
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=SCL Pin=DD1-1
+Added Pin To Net: NetName=SCL Pin=R13-1
+Added Pin To Net: NetName=SCL Pin=VD4-2
+Added Pin To Net: NetName=SCL Pin=XP1-7
+Added Pin To Net: NetName=SCL Pin=XP1-10
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=DD1-2
+Added Pin To Net: NetName=SDA Pin=R12-1
+Added Pin To Net: NetName=SDA Pin=VD5-2
+Added Pin To Net: NetName=SDA Pin=XP1-8
+Added Pin To Net: NetName=SDA Pin=XP1-11
+Added Net: Name=SDA
+Added Pin To Net: NetName=STRONG_Vout Pin=C3-2
+Added Pin To Net: NetName=STRONG_Vout Pin=C4-1
+Added Pin To Net: NetName=STRONG_Vout Pin=L1-1
+Added Pin To Net: NetName=STRONG_Vout Pin=R2-2
+Added Pin To Net: NetName=STRONG_Vout Pin=XP2-11
+Added Pin To Net: NetName=STRONG_Vout Pin=XP2-12
+Added Net: Name=STRONG_Vout
+Added Pin To Net: NetName=Vin Pin=C1-2
+Added Pin To Net: NetName=Vin Pin=DA1-1
+Added Pin To Net: NetName=Vin Pin=DA2-8
+Added Pin To Net: NetName=Vin Pin=R5-2
+Added Pin To Net: NetName=Vin Pin=XP1-1
+Added Net: Name=Vin
+Added Pin To Net: NetName=WEAK_Vout Pin=C6-1
+Added Pin To Net: NetName=WEAK_Vout Pin=C9-2
+Added Pin To Net: NetName=WEAK_Vout Pin=C10-2
+Added Pin To Net: NetName=WEAK_Vout Pin=DD1-6
+Added Pin To Net: NetName=WEAK_Vout Pin=DD1-18
+Added Pin To Net: NetName=WEAK_Vout Pin=L2-1
+Added Pin To Net: NetName=WEAK_Vout Pin=L2-1
+Added Pin To Net: NetName=WEAK_Vout Pin=R1_0-2
+Added Pin To Net: NetName=WEAK_Vout Pin=R1_1-2
+Added Pin To Net: NetName=WEAK_Vout Pin=R1_2-2
+Added Pin To Net: NetName=WEAK_Vout Pin=R1_3-2
+Added Pin To Net: NetName=WEAK_Vout Pin=R1_4-2
+Added Pin To Net: NetName=WEAK_Vout Pin=R1_5-2
+Added Pin To Net: NetName=WEAK_Vout Pin=R1_6-2
+Added Pin To Net: NetName=WEAK_Vout Pin=R1_7-2
+Added Pin To Net: NetName=WEAK_Vout Pin=R6-2
+Added Pin To Net: NetName=WEAK_Vout Pin=R7-2
+Added Pin To Net: NetName=WEAK_Vout Pin=R8-1
+Added Pin To Net: NetName=WEAK_Vout Pin=R12-2
+Added Pin To Net: NetName=WEAK_Vout Pin=R13-2
+Added Pin To Net: NetName=WEAK_Vout Pin=R14-1
+Added Pin To Net: NetName=WEAK_Vout Pin=R15-1
+Added Pin To Net: NetName=WEAK_Vout Pin=R16-1
+Added Pin To Net: NetName=WEAK_Vout Pin=R17-1
+Added Net: Name=WEAK_Vout
+Added Class: Name=0
+Added Class: Name=1
+Added Class: Name=2
+Added Class: Name=3
+Added Class: Name=4
+Added Class: Name=5
+Added Class: Name=6
+Added Class: Name=7
+Added Class: Name=Scheme
+Added Class: Name=Channel
+Added Room: Name=0
+Added Room: Name=1
+Added Room: Name=2
+Added Room: Name=3
+Added Room: Name=4
+Added Room: Name=5
+Added Room: Name=6
+Added Room: Name=7
+Added Room: Name=Scheme

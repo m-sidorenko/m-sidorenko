@@ -3,7 +3,7 @@
 
 - :space_invader: The **Firmware** contains drivers/libraries for working with third-party components for STM32.
 
-- :technologist: The **Software** contains various projects: from Kotlin application utilities to Python projects.
+- :technologist: And you can find various projects in other repositories: from Kotlin application utilities to Python projects.
 
 
 <!-- if you have any questions feel free to [email me](mi.sidoren@gmail.com) -->
